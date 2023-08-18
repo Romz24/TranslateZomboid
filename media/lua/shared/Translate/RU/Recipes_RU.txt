@@ -1,0 +1,5 @@
+Recipe_RU = {
+	// PaperWyverns_Sleepingbags
+	Recipe_Roll_Sleeping_Bag = "Собрать спальный мешок",
+	Recipe_UnRoll_Sleeping_Bag = "Расправить спальный мешок",
+}

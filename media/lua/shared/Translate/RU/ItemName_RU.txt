@@ -1,0 +1,17 @@
+ItemName_RU = {
+	// PaperWyverns_Sleepingbags
+	ItemName_Base.Sleepingbag = "Спальный мешок",
+	ItemName_Base.SleepingbagG = "Спальный мешок",
+	ItemName_Base.SleepingbagR = "Спальный мешок",
+	ItemName_Base.SleepingbagO = "Спальный мешок",
+	ItemName_Base.SleepingbagBK = "Спальный мешок",
+	ItemName_Base.SleepingbagLB = "Спальный мешок",
+	ItemName_Base.SleepingbagP = "Спальный мешок",
+	ItemName_Base.SleepingbagRolled = "Свернутый спальный мешок",
+	ItemName_Base.SleepingbagGRolled = "Свернутый спальный мешок",
+	ItemName_Base.SleepingbagRRolled = "Свернутый спальный мешок",
+	ItemName_Base.SleepingbagORolled = "Свернутый спальный мешок",
+	ItemName_Base.SleepingbagBKRolled = "Свернутый спальный мешок",
+	ItemName_Base.SleepingbagLBRolled = "Свернутый спальный мешок",
+	ItemName_Base.SleepingbagPRolled = "Свернутый спальный мешок",
+}
