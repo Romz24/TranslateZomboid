@@ -1,0 +1,6 @@
+ContextMenu_RU = {
+	// TakeAnyAmount
+	ContextMenu_GrabAmount = "Взять несколько",
+	ContextMenu_PutAmount = "Положить несколько",
+	ContextMenu_TransferAmountInfo = "Введите количество (макс.",
+}
