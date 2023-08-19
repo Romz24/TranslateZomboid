@@ -14,4 +14,8 @@ ItemName_RU = {
 	ItemName_Base.SleepingbagBKRolled = "Свернутый спальный мешок",
 	ItemName_Base.SleepingbagLBRolled = "Свернутый спальный мешок",
 	ItemName_Base.SleepingbagPRolled = "Свернутый спальный мешок",
+	
+	// SCKCO - Accessories
+	ItemName_SCA.TShirt_Schmitts = "Футболка «Schmitt's»",
+	ItemName_SCA.TShirt_Blazer = "Футболка «Blazer»",
 }
