@@ -42,4 +42,21 @@ Sandbox_RU = {
 	Sandbox_ATY_safezone_protect = "Включить защиту в безопасной зоне",
 	Sandbox_ATY_nonpvp_protect = "Включить защиту в зоне NonPVP",
 	Sandbox_ATY_damagedisplay = "Включить отображение урона",
+	
+	// Players On Map
+	Sandbox_PlayersOnMap = "Игроки на карте",
+	Sandbox_PlayersOnMap_Enabled = "Включено",
+	Sandbox_PlayersOnMap_Enabled_tooltip = "Покажет игроков на карте.",
+	Sandbox_PlayersOnMap_ShowPlayerNames = "Показать имена игроков",
+	Sandbox_PlayersOnMap_ShowPlayerNames_tooltip = "Покажет имена игроков на карте.",
+	Sandbox_PlayersOnMap_ShowMyName = "Показать мое имя",
+	Sandbox_PlayersOnMap_ShowMyName_tooltip = "Покажет ваше имя на карте. (Для самого себя)",
+	Sandbox_PlayersOnMap_ShowOnlyFaction = "Показать только фракцию",
+	Sandbox_PlayersOnMap_ShowOnlyFaction_tooltip = "Покажет только игроков из той же фракции. (Не влияет на администраторов)",
+	Sandbox_PlayersOnMap_ShowDeadPlayers = "Показать мертвых игроков",
+	Sandbox_PlayersOnMap_ShowDeadPlayers_tooltip = "Покажет мертвых игроков, которые стали зомби. (Не влияет на администраторов)",
+	Sandbox_PlayersOnMap_FontDebugConsole = "Использовать шрифт DebugConsole (Мини-карта)",
+	Sandbox_PlayersOnMap_FontDebugConsole_tooltip = "Это сделает текст меньше, но этот шрифт не поддерживает ascii символы в именах пользователей.",
+	Sandbox_PlayersOnMap_MaxDistance = "Максимальное расстояние",
+	Sandbox_PlayersOnMap_MaxDistance_tooltip = "Расстояние, после которого игроки не будут отображаться на карте. (Не влияет на администраторов)",
 }
