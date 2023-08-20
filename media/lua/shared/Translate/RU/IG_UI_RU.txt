@@ -128,4 +128,19 @@ IG_UI_RU = {
 	IGUI_Headshot = "В голову!",
 	IGUI_Bodyshot = "В тело!",
 	IGUI_Footshot = "В ногу",
+	
+	// '78 AM General M35A2 + M49A2C + M50A3 + M62
+	IGUI_VehiclePartM35A2Tarp = "Крыша кузова",
+	IGUI_VehiclePartM35A2CabCovers = "Крыша кабины",
+	IGUI_VehiclePartM35A2Bumper = "Бампер",
+	IGUI_VehiclePartM35A2Grille = "Передняя решетка",
+	IGUI_VehiclePartM35A2Mudflaps = "Брызговики",
+	IGUI_VehiclePartM35A2SpareTire = "Запасное Колесо",
+	IGUI_VehiclePartM62SpareTire = "Запасное Колесо",
+	IGUI_VehiclePartM35A2Trunk = "Багажник кузова",
+	IGUI_VehiclePartM49A2CTrunk = "Хранилище насосного отсека",
+	IGUI_VehiclePartM35A2Muffler = "Глушитель",
+	IGUI_VehiclePartM35A2WindshieldArmor = "Защита лобового стекла",
+	IGUI_VehiclePartM35A2DoorLeftArmor = "Защита передней левой двери",
+	IGUI_VehiclePartM35A2DoorRightArmor = "Защита передней правой двери",
 }
