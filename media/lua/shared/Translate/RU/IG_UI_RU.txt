@@ -123,4 +123,9 @@ IG_UI_RU = {
 	IGUI_VehicleNameisoContainer5 = "Разрушенный ISO контейнер",
 	
 	IGUI_VehiclePartTrunk2 = "Багажник 2",
+	
+	// Advanced trajectory
+	IGUI_Headshot = "В голову!",
+	IGUI_Bodyshot = "В тело!",
+	IGUI_Footshot = "В ногу",
 }
