@@ -18,4 +18,10 @@ ItemName_RU = {
 	// SCKCO - Accessories
 	ItemName_SCA.TShirt_Schmitts = "Футболка «Schmitt's»",
 	ItemName_SCA.TShirt_Blazer = "Футболка «Blazer»",
+	
+	// Containers!
+	ItemName_Base.IsoContainerTrunkDoor2 = "Дверь контейнера",
+	ItemName_Base.IsoContainerDoubleTrunkDoor2 = "Двойная дверь контейнера",
+	ItemName_Base.IsoContainerTankerTrunkDoor2 = "Крышка топливного бака",
+	ItemName_Base.ISOHalfStorage2 = "Багажник",
 }

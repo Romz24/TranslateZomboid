@@ -113,4 +113,14 @@ IG_UI_RU = {
 	IGUI_VehicleNameSC_M35A1Crashed = "Обломки M35A1",
 	IGUI_VehicleNameSC_M35A1CrashedTurned = "Обломки перевернутого M35A1",
 	IGUI_VehicleNameSC_M35A1Burnt = "Сгоревшие обломки M35A1",
+	
+	// Containers!
+	IGUI_CraftCategory_Containers = "Контейнеры",
+	
+	IGUI_VehicleNameisoContainer2 = "ISO контейнер с одной дверью",
+	IGUI_VehicleNameisoContainer3tanker = "ISO топливный бак",
+	IGUI_VehicleNameisoContainer4 = "ISO контейнер с двумя дверьми",
+	IGUI_VehicleNameisoContainer5 = "Разрушенный ISO контейнер",
+	
+	IGUI_VehiclePartTrunk2 = "Багажник 2",
 }

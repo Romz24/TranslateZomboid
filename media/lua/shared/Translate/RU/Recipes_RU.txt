@@ -2,4 +2,9 @@ Recipe_RU = {
 	// PaperWyverns_Sleepingbags
 	Recipe_Roll_Sleeping_Bag = "Собрать спальный мешок",
 	Recipe_UnRoll_Sleeping_Bag = "Расправить спальный мешок",
+	
+	// Containers!
+	Recipe_Make_ISO_Container_Door = "Сделать дверь для ISO контейнера",
+	Recipe_Make_ISO_Container_Double_Door = "Сделать двойную дверь для ISO контейнера",
+	Recipe_Make_ISO_Container_Tunker_Lid = "Сделать крышку для бака ISO контейнера",
 }
