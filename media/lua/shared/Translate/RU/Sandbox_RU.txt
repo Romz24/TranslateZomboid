@@ -1,0 +1,10 @@
+Sandbox_RU = {
+	// KillCount
+	Sandbox_KillCount = "Счетчик убийств",
+	Sandbox_KillCount_doExport = "Экспорт убийст",
+	Sandbox_KillCount_doExport_tooltip = "Может вызывать ошибки.",
+	Sandbox_KillCount_includePostDeathUI = "Post Death UI",
+	Sandbox_KillCount_includePostDeathUI_tooltip = "Includes all kills into the final value in Post Death floating text.",
+	Sandbox_KillCount_MaxUpdateDelay = "Задержка обновления",
+	Sandbox_KillCount_MaxUpdateDelay_tooltip = "Целевое время (в миллисекундах) между двумя обновлениями в мультиплеере. Маленькое значение обеспечивает отзывчивость. Высокое значение уменьшает использование сети и нагрузку на сервер.",
+}

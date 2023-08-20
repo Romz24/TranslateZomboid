@@ -2,4 +2,13 @@ UI_RU = {
 	// Wring Out Clothing
 	UI_ContextMenu_WringClothing_Option = "Выжать одежду",
 	UI_ContextMenu_WringClothing_Tooltip = "Убрать избыточную влагу из одежды",
+	
+	// KillCount
+	UI_KillCount_weapon = "оружие",
+	UI_KillCount_fire = "огонь",
+	UI_KillCount_car = "транспорт",
+	UI_Kills = "Убийства",
+	UI_KillsPanel = "Подробная статистика убийств.",
+	UI_KCComboTitle = "Выбранный игрок: ",
+	UI_KCIncludeDead = "Показывать мертвых персонажей",
 }
