@@ -59,4 +59,21 @@ Sandbox_RU = {
 	Sandbox_PlayersOnMap_FontDebugConsole_tooltip = "Это сделает текст меньше, но этот шрифт не поддерживает ascii символы в именах пользователей.",
 	Sandbox_PlayersOnMap_MaxDistance = "Максимальное расстояние",
 	Sandbox_PlayersOnMap_MaxDistance_tooltip = "Расстояние, после которого игроки не будут отображаться на карте. (Не влияет на администраторов)",
+	
+	// Mileage Expansion
+	Sandbox_MileageExpansion = "Система пробега",
+	Sandbox_MileageExpansion_Default_Unit = "Единица измерения",
+	Sandbox_MileageExpansion_Default_Unit_tooltip = "Единица измерения, с которой начинается вновь созданное транспортное средство.",
+	Sandbox_MileageExpansion_Default_Unit_option1 = "Мили",
+	Sandbox_MileageExpansion_Default_Unit_option2 = "Километры",
+	Sandbox_MileageExpansion_Meter_Per_Kilometer = "Количество метров в километре",
+	Sandbox_MileageExpansion_Meter_Per_Kilometer_tooltip = "Задайте количество метров в одном километре. <LINE> Меньшее значение означает, что 1 километр занимает меньше времени для путешествия. <LINE> Большее значение означает, что 1 километр занимает больше времени для путешествия.",
+	Sandbox_MileageExpansion_Kilometer_Short_Name = "Сокращенное название километра",
+	Sandbox_MileageExpansion_Kilometer_Short_Name_tooltip = "Задайте собственное сокращенное название для километров. По умолчанию: km",
+	Sandbox_MileageExpansion_Miles_Short_Name = "Сокращенное название мили",
+	Sandbox_MileageExpansion_Miles_Short_Name_tooltip = "Задайте собственное сокращенное название для миль. По умолчанию: mi",
+	Sandbox_MileageExpansion_Minimum_Starting_Odometer = "Минимальное начальное значение одометра",
+	Sandbox_MileageExpansion_Minimum_Starting_Odometer_tooltip = "Это минимальное количество километров, используемое для случайной установки начального значения одометра транспортного средства. <LINE> Состояние двигателя повлияет только на конечное значение.",
+	Sandbox_MileageExpansion_Maximum_Starting_Odometer = "Максимальное начальное значение одометра",
+	Sandbox_MileageExpansion_Maximum_Starting_Odometer_tooltip = "Это максимальное количество километров, используемое для случайной установки начального значения одометра транспортного средства. <LINE> Состояние двигателя повлияет только на конечное значение.",
 }

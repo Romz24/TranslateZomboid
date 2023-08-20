@@ -6,4 +6,11 @@ ContextMenu_RU = {
 	
 	// SCKCO - Accessories
 	ContextMenu_BagCorpse = "Упаковать труп",
+	
+	// Mileage Expansion
+	ContextMenu_Use_Metric = "Использовать метрическую систему",
+	ContextMenu_Use_Imperial = "Использовать имперскую систему",
+	ContextMenu_Hide_Trip_Odometer = "Скрыть счетчик пройденного расстояния",
+	ContextMenu_Show_Trip_Odometer = "Показать счетчик пройденного расстояния",
+	ContextMenu_Reset_Trip_Odometer = "Сбросить счетчик пройденного расстояния",
 }
