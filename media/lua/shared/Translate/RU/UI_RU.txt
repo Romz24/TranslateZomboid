@@ -1,0 +1,5 @@
+UI_RU = {
+	// Wring Out Clothing
+	UI_ContextMenu_WringClothing_Option = "Выжать одежду",
+	UI_ContextMenu_WringClothing_Tooltip = "Убрать избыточную влагу из одежды",
+}
