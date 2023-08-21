@@ -184,4 +184,7 @@ IG_UI_RU = {
 	IGUI_CUI_Display_EnableTrackDuplicateItems = "Отслеживать дубликаты общих предметов",
 	
 	IGUI_CUI_Display_EnableTrackDuplicates_Tooltip = "Сравнивать предметы контейнера с инвентарем персонажа.\nНеэкипированные контейнеры не будут включены.",
+	
+	// Proximity Inventory
+	IGUI_ProxInv_Force_Selected = "Общий инвентарь: ",
 }
