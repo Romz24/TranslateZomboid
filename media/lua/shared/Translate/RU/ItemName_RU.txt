@@ -48,4 +48,9 @@ ItemName_RU = {
 	ItemName_Base.91geoMetroFrontSideWindow1 = "Переднее боковое окно 91 Geo Metro",
 	ItemName_Base.91geoMetroRearSideWindow1 = "Заднее боковое окно 91 Geo Metro",
 	ItemName_Base.91geoMetroRearWindshield1 = "Заднее стекло 91 Geo Metro",
+	
+	// Braven's Nail Guns
+	ItemName_Base.Nailgun1 = "Гвоздомёт"
+	ItemName_Base.Nailgun2 = "Тактический гвоздомёт",
+	ItemName_Base.NailClip = "Магазин для гвоздей",
 }

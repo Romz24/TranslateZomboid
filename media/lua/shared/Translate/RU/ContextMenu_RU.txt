@@ -13,4 +13,7 @@ ContextMenu_RU = {
 	ContextMenu_Hide_Trip_Odometer = "Скрыть счетчик пройденного расстояния",
 	ContextMenu_Show_Trip_Odometer = "Показать счетчик пройденного расстояния",
 	ContextMenu_Reset_Trip_Odometer = "Сбросить счетчик пройденного расстояния",
+	
+	// Braven's Nail Guns
+	ContextMenu_Nailgun = "Гвоздомёт",
 }
