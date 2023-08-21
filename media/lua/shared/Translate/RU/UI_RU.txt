@@ -321,4 +321,8 @@ UI_RU = {
 	
 	// Proximity Inventory
 	UI_optionscreen_binding_ProxInv_Force_Selected = "Включить/выключить общий инвентарь",
+	
+	// Inspect Weapon (Перевод отсутстующих строк)
+	UI_optionscreen_binding_OPTION_INSPECT_WEAPON = "Осмотр оружия",
+	UI_optionscreen_binding_OPTION_INSPECT_CURRENT_WEAPON = "Осмотреть текущее оружие",
 }
