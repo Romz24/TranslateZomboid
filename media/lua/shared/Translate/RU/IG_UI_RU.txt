@@ -187,4 +187,19 @@ IG_UI_RU = {
 	
 	// Proximity Inventory
 	IGUI_ProxInv_Force_Selected = "Общий инвентарь: ",
+	
+	// '91 Geo Metro
+	IGUI_VehiclePartGEO91BumperFront = "Передний бампер",
+	IGUI_VehiclePartGEO91BumperRear = "Задний бампер",
+	IGUI_VehiclePartGEO91SpareTire = "Запасное колесо",
+	
+	IGUI_VehiclePartGEO91WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartGEO91WindshieldRearArmor = "Броня заднего стекла",
+	IGUI_VehiclePartGEO91WindowFrontLeftArmor = "Броня передней левой двери",
+	IGUI_VehiclePartGEO91WindowFrontRightArmor = "Броня передней правой двери",
+	IGUI_VehiclePartGEO91WindowRearLeftArmor = "Броня заднего левого стекла",
+	IGUI_VehiclePartGEO91WindowRearRightArmor = "Броня заднего правого стекла",
+	
+	IGUI_VehiclePartGEO91Trunk = "Багажник",
+	IGUI_VehiclePartGEO91Roofrack = "Багажник на крыше",
 }

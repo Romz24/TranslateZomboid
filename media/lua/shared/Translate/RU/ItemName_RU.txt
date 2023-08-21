@@ -24,4 +24,28 @@ ItemName_RU = {
 	ItemName_Base.IsoContainerDoubleTrunkDoor2 = "Двойная дверь контейнера",
 	ItemName_Base.IsoContainerTankerTrunkDoor2 = "Крышка топливного бака",
 	ItemName_Base.ISOHalfStorage2 = "Багажник",
+	
+	// '91 Geo Metro
+	ItemName_Base.91geoMetroTire1 = "Колесо 91 Geo Metro",
+	ItemName_Base.91geoMetroTrunk1 = "Задний багажник 91 Geo Metro",
+	ItemName_Base.91geoMetroRoofrack0 = "Деревянный багажник для крыши 91 Geo Metro",
+	ItemName_Base.91geoMetroRoofrack1 = "Металлический багажник для крыши 91 Geo Metro",
+	ItemName_Base.91geoMetroFrontDoor1 = "Передняя дверь 91 Geo Metro",
+	
+	ItemName_Base.91geoMetroWindshieldArmor = "Броня лобового стекла 91 Geo Metro",
+	ItemName_Base.91geoMetroFrontWindowArmor = "Броня переднего бокового стекла 91 Geo Metro",
+	ItemName_Base.91geoMetroRearWindowArmor = "Броня заднего бокового стекла 91 Geo Metro",
+	ItemName_Base.91geoMetroWindshieldRearArmor = "Броня заднего стекла 91 Geo Metro",
+	
+	ItemName_Base.91geoMetroEngineDoor1 = "Капот 91 Geo Metro",
+	ItemName_Base.91geoMetroTrunkDoor1 = "Крышка багажника 91 Geo Metro",
+	ItemName_Base.91geoMetroSeatFront1 = "Переднее сиденье 91 Geo Metro",
+	ItemName_Base.91geoMetroSeatRear1 = "Заднее сиденье 91 Geo Metro",
+	ItemName_Base.91geoMetroBumperFront0 = "Передний бампер 91 Geo Metro",
+	ItemName_Base.91geoMetroReinforcedBumperFront1 = "Усиленный передний бампер 91 Geo Metro",
+	ItemName_Base.91geoMetroBumperRear0 = "Задний бампер 91 Geo Metro",
+	ItemName_Base.91geoMetroWindshield1 = "Лобовое стекло 91 Geo Metro",
+	ItemName_Base.91geoMetroFrontSideWindow1 = "Переднее боковое окно 91 Geo Metro",
+	ItemName_Base.91geoMetroRearSideWindow1 = "Заднее боковое окно 91 Geo Metro",
+	ItemName_Base.91geoMetroRearWindshield1 = "Заднее стекло 91 Geo Metro",
 }

@@ -7,4 +7,19 @@ Recipe_RU = {
 	Recipe_Make_ISO_Container_Door = "Сделать дверь для ISO контейнера",
 	Recipe_Make_ISO_Container_Double_Door = "Сделать двойную дверь для ISO контейнера",
 	Recipe_Make_ISO_Container_Tunker_Lid = "Сделать крышку для бака ISO контейнера",
+	
+	// '91 Geo Metro
+	Recipe_Make_GEO91_Tire = "Сделать колесо для GEO91",
+	Recipe_Make_GEO91_Front_Side_Window = "Сделать переднее боковое окно для GEO91",
+	Recipe_Make_GEO91_Rear_Side_Window = "Сделать заднее боковое окно для GEO91",
+	Recipe_Make_GEO91_Windshield = "Сделать лобовое стекло для GEO91",
+	Recipe_Make_GEO91_Rear_Windshield = "Сделать заднее стекло для GEO91",
+	Recipe_Make_GEO91_Front_Window_Armor = "Сделать броню переднего бокового стекла для GEO91",
+	Recipe_Make_GEO91_Rear_Window_Armor = "Сделать броню заднего бокового стекла для GEO91",
+	Recipe_Make_GEO91_Windshield_Armor = "Сделать броню лобового стекла для GEO91",
+	Recipe_Make_GEO91_Rear_Windshield_Armor = "Сделать броню заднего стекла для GEO91",
+	Recipe_Make_GEO91_Reinforced_Bumper = "Сделать усиленный передний бампер для GEO91",
+	Recipe_Make_GEO91_Wooden_Roofrack = "Сделать деревянный багажник для крыши GEO91",
+	Recipe_Make_GEO91_Metal_Roofrack = "Сделать металлический багажник для крыши GEO91",
+	Recipe_Dismantle_Wooden_Armor = "Разобрать деревянную броню",
 }
