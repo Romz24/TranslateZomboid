@@ -14,3 +14,4 @@
 * [More Description for Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362) (Перевод отсутстующих строк)
 * [Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)
 * [Proximity Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2847184718)
+* [Fancy Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2904920097)
