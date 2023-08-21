@@ -53,4 +53,9 @@ ItemName_RU = {
 	ItemName_Base.Nailgun1 = "Гвоздомёт"
 	ItemName_Base.Nailgun2 = "Тактический гвоздомёт",
 	ItemName_Base.NailClip = "Магазин для гвоздей",
+	
+	// FuelAPI
+	ItemName_FuelAPI.LargePetrolCan = "Большая канистра",
+	ItemName_FuelAPI.LargePetrolCanFull = "Большая канистра с бензином",
+	ItemName_FuelAPI.LargePetrolCanWater = "Большая канистра с водой",
 }

@@ -20,3 +20,4 @@
 * [Inspect Weapon](https://steamcommunity.com/sharedfiles/filedetails/?id=2948824747) (Перевод отсутстующих строк)
 * [Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655)
 * [Braven's Nail Guns](https://steamcommunity.com/sharedfiles/filedetails/?id=2979518517) (Исправленный перевод)
+* [FuelAPI](https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916)

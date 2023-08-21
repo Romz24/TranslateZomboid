@@ -206,4 +206,7 @@ IG_UI_RU = {
 	// Replace Bandage
 	IGUI_Replace_Bandage = "Заменить повязку",
 	IGUI_Replace_&_Disinfect = "Заменить и дезинфицировать",
+	
+	// FuelAPI
+	IGUI_BarrelHasFuel = "Внутри есть бензин.",
 }

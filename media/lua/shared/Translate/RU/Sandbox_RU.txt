@@ -97,4 +97,13 @@ Sandbox_RU = {
 	Sandbox_FancyHandwork_HideDoorProgressBar_tooltip = "Скрывает полосу прогресса при открытии или закрытии двери а также при входе или выходе из транспортного средства.",
 	Sandbox_FancyHandwork_HideVehicleWalkProgressBar = "Скрыть полосу прогресса действия 'Идти к' транспортного средства",
 	Sandbox_FancyHandwork_HideVehicleWalkProgressBar_tooltip = "Скрывает полосу прогресса при перемещении персонажа к месту для взаимодействия с транспортным средством.",
+	
+	// FuelAPI
+	Sandbox_FuelAPI = "Бензин API",
+	Sandbox_FuelAPI_BarrelMaxCapacity = "Максимальная емкость бочки для бензина",
+	Sandbox_FuelAPI_BarrelMaxCapacity_tooltip = "Максимальное количество бензина, которое может содержать бочка.",
+	Sandbox_FuelAPI_BarrelCanPickupFull = "Можно поднять полную бочку",
+	Sandbox_FuelAPI_BarrelCanPickupFull_tooltip = "Разрешить поднимать бочку, содержащую бензин.",
+	Sandbox_FuelAPI_BarrelRandomQuantityPercent = "Случайное начальное количество бензина в бочке (%)",
+	Sandbox_FuelAPI_BarrelRandomQuantityPercent_tooltip = "Процент начального случайного количества бензина, найденного в бочках.",
 }

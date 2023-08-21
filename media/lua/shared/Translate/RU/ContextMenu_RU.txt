@@ -16,4 +16,9 @@ ContextMenu_RU = {
 	
 	// Braven's Nail Guns
 	ContextMenu_Nailgun = "Гвоздомёт",
+	
+	// FuelAPI
+	ContextMenu_FuelName = "Бензин",
+	ContextMenu_AddFuel = "Добавить бензин",
+	ContextMenu_AddAllFuel = "Добавить все",
 }
