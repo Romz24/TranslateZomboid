@@ -23,3 +23,4 @@
 * [FuelAPI](https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916)
 * [Red's Blousin N Rollin](https://steamcommunity.com/sharedfiles/filedetails/?id=2524979277)
 * [AutoCook](https://steamcommunity.com/sharedfiles/filedetails/?id=2640569820)
+* [Refined Hotwiring](https://steamcommunity.com/sharedfiles/filedetails/?id=2687515849)

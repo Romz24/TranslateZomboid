@@ -106,4 +106,12 @@ Sandbox_RU = {
 	Sandbox_FuelAPI_BarrelCanPickupFull_tooltip = "Разрешить поднимать бочку, содержащую бензин.",
 	Sandbox_FuelAPI_BarrelRandomQuantityPercent = "Случайное начальное количество бензина в бочке (%)",
 	Sandbox_FuelAPI_BarrelRandomQuantityPercent_tooltip = "Процент начального случайного количества бензина, найденного в бочках.",
+	
+	// Refined Hotwiring
+	Sandbox_RefinedHotwiring = "Усовершенствованная горячая проводка",
+	Sandbox_RefinedHotwiring_UnhotwireElectrical = "Демонтаж проводки: Навык электрика",
+	Sandbox_RefinedHotwiring_UnhotwireMechanics = "Демонтаж проводки: Навык автомеханика",
+	Sandbox_RefinedHotwiring_KeyElectrical = "Создание ключа: Навык электрика",
+	Sandbox_RefinedHotwiring_KeyMechanics = "Создание ключа: Навык автомеханика",
+	Sandbox_RefinedHotwiring_KeyMetalworking = "Создание ключа: Навык газосварки",
 }
