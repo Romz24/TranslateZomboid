@@ -325,4 +325,11 @@ UI_RU = {
 	// Inspect Weapon (Перевод отсутстующих строк)
 	UI_optionscreen_binding_OPTION_INSPECT_WEAPON = "Осмотр оружия",
 	UI_optionscreen_binding_OPTION_INSPECT_CURRENT_WEAPON = "Осмотреть текущее оружие",
+	
+	// Fancy Handwork
+	UI_optionscreen_binding_FancyHandwork = "Изысканные движения",
+	UI_optionscreen_binding_FHModifier = "Клавиша модификатор",
+	UI_optionscreen_binding_FHSwapKey = "Поменять предметы между руками (по клавише)",
+	UI_optionscreen_binding_FHSwapKeyMod = "Поменять предметы между руками (модификатор + клавиша)",
+	UI_optionscreen_binding_FHDebugKey = "Клавиша отладки (используется только в режиме отладки)",
 }
