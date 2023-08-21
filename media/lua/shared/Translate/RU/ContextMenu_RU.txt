@@ -27,4 +27,7 @@ ContextMenu_RU = {
 	ContextMenu_Non bloused = "Расправить",
 	ContextMenu_Rolled up = "Подвернуть рукава",
 	ContextMenu_Non rolled = "Опустить рукава",
+	
+	// AutoCook
+	ContextMenu_AutoCook_From_Category = "Автоготовка %1",
 }
