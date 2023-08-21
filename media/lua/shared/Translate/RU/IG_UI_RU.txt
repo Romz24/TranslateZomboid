@@ -143,4 +143,8 @@ IG_UI_RU = {
 	IGUI_VehiclePartM35A2WindshieldArmor = "Защита лобового стекла",
 	IGUI_VehiclePartM35A2DoorLeftArmor = "Защита передней левой двери",
 	IGUI_VehiclePartM35A2DoorRightArmor = "Защита передней правой двери",
+	
+	// More Description for Traits (Перевод отсутстующих строк)
+	IGUI_SearchMode_Categories_WildHerbs = "Дикие травы",
+	IGUI_SearchMode_Categories_DeadAnimals = "Мертвые животные",
 }
