@@ -58,4 +58,22 @@ ItemName_RU = {
 	ItemName_FuelAPI.LargePetrolCan = "Большая канистра",
 	ItemName_FuelAPI.LargePetrolCanFull = "Большая канистра с бензином",
 	ItemName_FuelAPI.LargePetrolCanWater = "Большая канистра с водой",
+	
+	// Red's Blousin N Rollin
+	ItemName_Base.Trousers_CamoGreen = "Военные брюки в военном камуфляже",
+	ItemName_Base.BPants = "Заправленные военные брюки в военном камуфляже",
+	ItemName_Base.Trousers_CamoDesert = "Военные брюки в пустынном камуфляже",
+	ItemName_Base.BPantsDesert = "Заправленные военные брюки в пустынном камуфляже",
+	ItemName_Base.Trousers_CamoUrban = "Военные брюки в городском камуфляже",
+	ItemName_Base.BPantsUrban = "Заправленные военные брюки в городском камуфляже",
+	ItemName_Base.Trousers_Fireman = "Брюки пожарного",
+	ItemName_Base.BPantsFire = "Заправленные брюки пожарного",
+	ItemName_Base.Trousers_JeanBaggy = "Широкие джинсовые брюки",
+	ItemName_Base.BPantsJeans = "Заправленные широкие джинсовые брюки",
+	ItemName_Base.Trousers_Ranger = "Брюки рейнджера",
+	ItemName_Base.BPantsRanger = "Заправленные брюки рейнджера",
+	ItemName_Base.Shirt_FormalWhite = "Формальная рубашка",
+	ItemName_Base.Shirt_FormalWhiteRolled = "Формальная рубашка с закатанными рукавами",
+	ItemName_Base.Shirt_Lumberjack = "Рубашка дровосека",
+	ItemName_Base.Shirt_LumberjackRolled = "Рубашка дровосека с закатанными рукавами",
 }

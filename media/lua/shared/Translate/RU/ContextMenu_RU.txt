@@ -21,4 +21,10 @@ ContextMenu_RU = {
 	ContextMenu_FuelName = "Бензин",
 	ContextMenu_AddFuel = "Добавить бензин",
 	ContextMenu_AddAllFuel = "Добавить все",
+	
+	// Red's Blousin N Rollin
+	ContextMenu_Bloused = "Заправить",
+	ContextMenu_Non bloused = "Расправить",
+	ContextMenu_Rolled up = "Подвернуть рукава",
+	ContextMenu_Non rolled = "Опустить рукава",
 }
