@@ -147,4 +147,41 @@ IG_UI_RU = {
 	// More Description for Traits (Перевод отсутстующих строк)
 	IGUI_SearchMode_Categories_WildHerbs = "Дикие травы",
 	IGUI_SearchMode_Categories_DeadAnimals = "Мертвые животные",
+	
+	// Alternative Inventory Rendering
+	IGUI_CUI_Display_UpdateRate = "Скорость обновления инвентаря",
+	IGUI_CUI_Display_MaxItemPerGroup = "Количество предметов для отображения в группе",
+	IGUI_CUI_Display_OpacityPresets = "Фон инвентаря",
+	IGUI_CUI_Display_BookMarkStyle = "Стиль значка избранное",
+	IGUI_CUI_Display_EquipStyle = "Стиль значка экипировки",
+	IGUI_CUI_Display_ControllerHighlight = "Стиль подсветки",
+	IGUI_CUI_Display_BookTrack = "Отслеживание книг с более высоким уровнем навыка (WIP)",
+	
+	IGUI_CUI_Display_EnableDrainableDetail = "Показать подробное состояние влажности",
+	IGUI_CUI_Display_EnableShowModdedGun = "Показывать модифицированное оружие",
+	IGUI_CUI_Display_EnableDetailedAttachments = "Показать вложения в развернутом разделе",
+	IGUI_CUI_Display_EnableMagazineDetail = "Показывать детальный статус журнала",
+	
+	IGUI_CUI_Display_EnableShowModdedGun = "Показывать модифицированное оружие",
+	IGUI_CUI_Display_EnableTrackLitItems = "Отслеживать книги и медиа",
+	IGUI_CUI_Display_EnableTrackMediaItems = "Отслеживать просмотренные медиа",
+	IGUI_CUI_Display_EnableBadCondHighlight = "Подсвечивать оружие в плохом состоянии",
+	IGUI_CUI_Display_EnableEquipmentLine = "Включить полосу разделения инвентаря",
+	IGUI_CUI_Display_EnablePinItem = "Показать закрепленные элементы (WIP)",
+	IGUI_CUI_Display_EnableFilledMagazine = "",
+	IGUI_CUI_Display_ItemDataUpdateRate = "Скорость обновления данных",
+	IGUI_CUI_Display_InventoryUpdateRate = "Скорость обновления инвентаря",
+	IGUI_CUI_Display_EnableDelayedItemDataUpdate = "Включить отложенное обновление данных предметов",
+	IGUI_CUI_Display_EnableDelayedInventoryUpdate = "Включить отложенное обновление инвентаря",
+	IGUI_CUI_Display_ExperimentalTableWipe = "Экспериментальная очистка столов",
+	
+	IGUI_CUI_Display_EnableTrackDuplicates = "Отслеживать дубликаты предметов",
+	IGUI_CUI_Display_EnableTrackDuplicateLiteratures = "Отслеживать дубликаты литературы",
+	IGUI_CUI_Display_EnableTrackDuplicateWeapons = "Отслеживать дубликаты оружия",
+	IGUI_CUI_Display_EnableTrackDuplicateWeaponsComparison = "Сравнить состояние оружия",
+	IGUI_CUI_Display_EnableTrackDuplicateClothings = "Отслеживать дубликаты одежды",
+	IGUI_CUI_Display_EnableTrackDuplicateFoods = "Отслеживать дубликаты еды",
+	IGUI_CUI_Display_EnableTrackDuplicateItems = "Отслеживать дубликаты общих предметов",
+	
+	IGUI_CUI_Display_EnableTrackDuplicates_Tooltip = "Сравнивать предметы контейнера с инвентарем персонажа.\nНеэкипированные контейнеры не будут включены.",
 }

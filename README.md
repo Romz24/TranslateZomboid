@@ -12,3 +12,4 @@
 * [Mileage Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2980294462)
 * ['78 AM General M35A2 + M49A2C + M50A3 + M62](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995)
 * [More Description for Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362) (Перевод отсутстующих строк)
+* [Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)
