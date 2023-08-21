@@ -202,4 +202,8 @@ IG_UI_RU = {
 	
 	IGUI_VehiclePartGEO91Trunk = "Багажник",
 	IGUI_VehiclePartGEO91Roofrack = "Багажник на крыше",
+	
+	// Replace Bandage
+	IGUI_Replace_Bandage = "Заменить повязку",
+	IGUI_Replace_&_Disinfect = "Заменить и дезинфицировать",
 }

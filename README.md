@@ -18,3 +18,4 @@
 * [Fancy Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2904920097)
 * [Skizot's Carryable Everything](https://steamcommunity.com/sharedfiles/filedetails/?id=2921029369)
 * [Inspect Weapon](https://steamcommunity.com/sharedfiles/filedetails/?id=2948824747) (Перевод отсутстующих строк)
+* [Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655)
