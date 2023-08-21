@@ -36,4 +36,7 @@ ContextMenu_RU = {
 	ContextMenu_VehicleUnhotwireSkill = "Вам нужен навык<br>Электроника %1 и<br>Автомеханика %2<br>чтобы демонтировать провода",
 	ContextMenu_VehicleGetKey = "Сделать ключ от автомобиля",
 	ContextMenu_VehicleGetKeySkill = "Вам нужен навык<br>Электроника %1 и<br>Автомеханика %2 и<br>Газосварка %3<br>чтобы сделать ключ",
+	
+	// How Much Fuel
+	ContextMenu_CheckFuelAmount = "Проверить количество топлива",
 }
