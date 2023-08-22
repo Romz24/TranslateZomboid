@@ -1,0 +1,4 @@
+Moveables_EN = {
+	// Real Ladder
+	QNW_Ladder = "Лестница",
+}

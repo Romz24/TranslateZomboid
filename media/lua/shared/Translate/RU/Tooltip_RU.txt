@@ -33,4 +33,7 @@ Tooltip_RU = {
 	Tooltip_MGCan = "Для хранения ненужных вещей",
 	Tooltip_Cartbox = "Для хранения вещей",
 	Tooltip_Weapons_Crate = "Для безопасного хранения оружия и аммуниции.",
+	
+	// Real Ladder
+	Tooltip_QNW_Ladder_LadderDesc = "Можно подняться",
 }
