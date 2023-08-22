@@ -1,4 +1,7 @@
 IG_UI_RU = {
+	// Без категории
+	IGUI_CraftCategory_Misc = "Разное",
+	
 	// CKCO - Core
 	IGUI_ItemCat_VehicleArmor = "Автомобильная броня",
 	

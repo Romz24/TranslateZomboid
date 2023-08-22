@@ -22,4 +22,20 @@ Recipe_RU = {
 	Recipe_Make_GEO91_Wooden_Roofrack = "Сделать деревянный багажник для крыши GEO91",
 	Recipe_Make_GEO91_Metal_Roofrack = "Сделать металлический багажник для крыши GEO91",
 	Recipe_Dismantle_Wooden_Armor = "Разобрать деревянную броню",
+	
+	// '78 AM General M35A2 + M49A2C + M50A3 + M62
+	Recipe_Convert_M35A2_RunFlat_Tire = "Переделать колесо M35A2 в бескамерное колесо",
+	Recipe_Convert_Standard_RunFlat_Tire = "Переделать бескамерное колесо в колесо M35A2",
+	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать бескамерную ось для 4 колес M35A2",
+	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать бескамерную ось для 4 колес M35A2",
+	Recipe_Make_M35A2_Muffler = "Сделать глушитель M35A2",
+	Recipe_Make_M35A2_Stake_Construction = "Сделать стойки кузова с дугами M35A2",
+	Recipe_Make_M35A2_Tarp_cover = "Сделать брезентовую крышу M35A2",
+	Recipe_Make_M35A2_Stake = "Сделать стойки кузова M35A2",
+	Recipe_Make_M35A2_Bumper = "Сделать бампер M35A2",
+	Recipe_Make_M35A2_Grille = "Сделать переднюю решётку M35A2",
+	Recipe_Make_M35A2_Side_Window = "Сделать боковое окно M35A2",
+	Recipe_Make_M35A2_Windshield = "Сделать лобовое стекло M35A2",
+	Recipe_Make_M35A2_Windshield_Armor = "Сделать броню лобового стекла M35A2",
+	Recipe_Make_M35A2_Door_Armor = "Сделать броню двери M35A2",
 }
