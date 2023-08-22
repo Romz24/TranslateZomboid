@@ -114,4 +114,9 @@ Sandbox_RU = {
 	Sandbox_RefinedHotwiring_KeyElectrical = "Создание ключа: Навык электрика",
 	Sandbox_RefinedHotwiring_KeyMechanics = "Создание ключа: Навык автомеханика",
 	Sandbox_RefinedHotwiring_KeyMetalworking = "Создание ключа: Навык газосварки",
+	
+	// Pillz
+	Sandbox_Pillz = "Таблетки",
+	Sandbox_minLevelUpgrade = "Минимальный уровень для улучшения",
+	Sandbox_turnOffMetabolism = "Выключить метаболизм",
 }

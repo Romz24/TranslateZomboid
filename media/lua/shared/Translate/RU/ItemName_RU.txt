@@ -76,4 +76,13 @@ ItemName_RU = {
 	ItemName_Base.Shirt_FormalWhiteRolled = "Формальная рубашка с закатанными рукавами",
 	ItemName_Base.Shirt_Lumberjack = "Рубашка дровосека",
 	ItemName_Base.Shirt_LumberjackRolled = "Рубашка дровосека с закатанными рукавами",
+	
+	// Pillz
+	ItemName_Pillz.PillsPassive = "Пассивная таблетка",
+	ItemName_Pillz.PillsAgility = "Таблетка ловкости",
+	ItemName_Pillz.PillsCombat = "Таблетка боевых навыков",
+	ItemName_Pillz.PillsFirearm = "Таблетка огнестрельного оружия",
+	ItemName_Pillz.PillsSurvival = "Таблетка выживания",
+	ItemName_Pillz.PillsCrafting = "Таблетка создания",
+	ItemName_Pillz.PillsDeath = "Таблетка смерти",
 }

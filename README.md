@@ -25,3 +25,4 @@
 * [AutoCook](https://steamcommunity.com/sharedfiles/filedetails/?id=2640569820)
 * [Refined Hotwiring](https://steamcommunity.com/sharedfiles/filedetails/?id=2687515849)
 * [How Much Fuel](https://steamcommunity.com/sharedfiles/filedetails/?id=2553593324)
+* [Pillz](https://steamcommunity.com/sharedfiles/filedetails/?id=3019317764)
