@@ -1,4 +1,13 @@
 ItemName_RU = {
+	// Перевод ванильных предметов
+	ItemName_Base.Bag_FoodCanned = "Спортивная сумка",
+	ItemName_Base.Bag_FoodSnacks = "Спортивная сумка",
+	ItemName_Base.Bag_ShotgunBag = "Спортивная сумка",
+	ItemName_Base.Bag_ShotgunDblBag = "Спортивная сумка",
+	ItemName_Base.Bag_ShotgunDblSawnoffBag = "Спортивная сумка",
+	ItemName_Base.Bag_ShotgunSawnoffBag = "Спортивная сумка",
+	ItemName_Base.Bag_ToolBag = "Спортивная сумка",
+	
 	// PaperWyverns_Sleepingbags
 	ItemName_Base.Sleepingbag = "Спальный мешок",
 	ItemName_Base.SleepingbagG = "Спальный мешок",
