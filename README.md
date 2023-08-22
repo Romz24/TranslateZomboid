@@ -28,3 +28,4 @@
 * [Pillz](https://steamcommunity.com/sharedfiles/filedetails/?id=3019317764)
 * [Bulletproof Vests Under Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2989423869)
 * [Real Ladder](https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814)
+* [ShowAttackDistance](https://steamcommunity.com/sharedfiles/filedetails/?id=2877637197)

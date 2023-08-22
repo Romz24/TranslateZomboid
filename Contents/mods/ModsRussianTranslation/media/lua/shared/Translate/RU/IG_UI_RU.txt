@@ -212,4 +212,9 @@ IG_UI_RU = {
 	
 	// FuelAPI
 	IGUI_BarrelHasFuel = "Внутри есть бензин.",
+	
+	// ShowAttackDistance
+	IGUI_ShowAttackDistance_Active = "Видимость дистанции атаки: Включена",
+	IGUI_ShowAttackDistance_Hidden = "Видимость дистанции атаки: Выключена",
+	IGUI_ShowAttackDistance_Switch = "Нажмите, чтобы изменить состояние видимости.",
 }
