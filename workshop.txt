@@ -1,0 +1,36 @@
+version=1
+id=3024154921
+title=Перевод модов на русский
+description=[h1]Список переведённых модов:[/h1]
+description=[olist]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2985394645]Take Any Amount[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2714848168]Sleeping Bags![/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807356025]Shark and Cytt's Kentucky Car Overhaul[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421]Containers![/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206]Wring Out Clothing[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553809727]KillCount[/url]
+description=[*]Cheat Menu: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2732834772]Rebirth[/url]/[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961381639]Phoenix[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2895102994]Advanced trajectory[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2879960936]Players On Map[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2980294462]Mileage Expansion[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995]'78 AM General M35A2 + M49A2C + M50A3 + M62[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514]'91 Geo Metro[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362]More Description for Traits[/url] (Перевод отсутстующих строк)
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776]Alternative Inventory Rendering[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847184718]Proximity Inventory[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2904920097]Fancy Handwork[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2921029369]Skizot's Carryable Everything[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2948824747]Inspect Weapon[/url] (Перевод отсутстующих строк)
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655]Replace Bandage[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2979518517]Braven's Nail Guns[/url] (Перевод отсутстующих строк)
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916]FuelAPI[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2524979277]Red's Blousin N Rollin[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2640569820]AutoCook[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2687515849]Refined Hotwiring[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553593324]How Much Fuel[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019317764]Pillz[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2989423869]Bulletproof Vests Under Clothing[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814]Real Ladder[/url]
+description=[/olist]
+tags=Build 41;Language/Translation
+visibility=public
