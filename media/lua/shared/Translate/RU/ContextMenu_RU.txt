@@ -39,4 +39,10 @@ ContextMenu_RU = {
 	
 	// How Much Fuel
 	ContextMenu_CheckFuelAmount = "Проверить количество топлива",
+	
+	// Bulletproof Vests Under Clothing
+	ContextMenu_UI_Prompt = "Надеть как",
+	ContextMenu_UI_Default = "Поверх всего",
+	ContextMenu_UI_UnderJ = "Только под куртку",
+	ContextMenu_UI_UnderJS = "Под куртку и свитер",
 }
