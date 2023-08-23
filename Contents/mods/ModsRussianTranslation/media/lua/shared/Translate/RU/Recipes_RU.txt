@@ -70,4 +70,16 @@ Recipe_RU = {
 	Recipe_Make_SSP93_Windshield_Armor = "Сделать заднее стекло SSP93",
 	Recipe_Make_SSP93_Rear_Windshield_Armor = "Сделать броню заднего стекла SSP93",
 	Recipe_Make_SSP93_Push_Bumper = "Сделать кенгурятник SSP93",
+	
+	// '99 Ford Crown Victoria Police Interceptor
+	Recipe_Make_CVPI99_Tire = "Сделать шину CVPI99",
+	Recipe_Make_CVPI99_Front_Side_Window = "Сделать переднее окно CVPI99",
+	Recipe_Make_CVPI99_Rear_Side_Window = "Сделать заднее окно CVPI99",
+	Recipe_Make_CVPI99_Windshield = "Сделать лобовое стекло CVPI99",
+	Recipe_Make_CVPI99_Rear_Windshield = "Сделать заднее стекло CVPI99",
+	Recipe_Make_CVPI99_Front_Window_Armor = "Сделать броню переднего окна CVPI99",
+	Recipe_Make_CVPI99_Rear_Window_Armor = "Сделать броню заднего окна CVPI99",
+	Recipe_Make_CVPI99_Windshield_Armor = "Сделать заднее стекло CVPI99",
+	Recipe_Make_CVPI99_Rear_Windshield_Armor = "Сделать броню заднего стекла CVPI99",
+	Recipe_Make_CVPI99_Push_Bumper = "Сделать кенгурятник CVPI99",
 }

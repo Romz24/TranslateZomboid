@@ -257,4 +257,20 @@ IG_UI_RU = {
 	
 	IGUI_VehiclePartSSP93Trunk = "Багажник",
 	IGUI_VehiclePartSSP93Gunrack = "Держатель для оружия",
+	
+	// '99 Ford Crown Victoria Police Interceptor
+	IGUI_VehiclePartCVPI99BumperFront = "Передний бампер",
+	IGUI_VehiclePartCVPI99BumperRear = "Задний бампер",
+	IGUI_VehiclePartCVPI99Barrier = "Перегородка кабины",
+	IGUI_VehiclePartCVPI99SpareTire = "Запасная шина",
+	
+	IGUI_VehiclePartCVPI99WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartCVPI99WindshieldRearArmor = "Броня заднего стекла",
+	IGUI_VehiclePartCVPI99WindowFrontLeftArmor = "Броня левого переднего окна",
+	IGUI_VehiclePartCVPI99WindowFrontRightArmor = "Броня правого переднего окна",
+	IGUI_VehiclePartCVPI99WindowRearLeftArmor = "Броня левого заднего окна",
+	IGUI_VehiclePartCVPI99WindowRearRightArmor = "Броня правого заднего окна",
+	
+	IGUI_VehiclePartCVPI99Trunk = "Багажник",
+	IGUI_VehiclePartCVPI99Gunrack = "Держатель для оружия",
 }
