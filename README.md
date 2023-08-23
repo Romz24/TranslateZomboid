@@ -30,3 +30,4 @@
 * [Real Ladder](https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814)
 * [ShowAttackDistance](https://steamcommunity.com/sharedfiles/filedetails/?id=2877637197)
 * [Fiat Fiorino 1992](https://steamcommunity.com/sharedfiles/filedetails/?id=2989871420)
+* [Renault Trafic 1990](https://steamcommunity.com/sharedfiles/filedetails/?id=3006496838)

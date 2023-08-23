@@ -131,4 +131,19 @@ ItemName_RU = {
 	ItemName_Base.1992fiorinoFrontWindshield1 = "Лобовое стекло Fiorino",
 	ItemName_Base.1992fiorinoRearWindshield1 = "Заднее стекло Fiorino",
 	ItemName_Base.1992fiorinoSeatFront1 = "Переднее сиденье Fiorino",
+	
+	// Renault Trafic 1990
+	ItemName_Base.1990traficDoorFrontLeft2 = "Передняя левая дверь Trafic",
+	ItemName_Base.1990traficDoorFrontRight2 = "Передняя правая дверь Trafic",
+	ItemName_Base.1990traficDoorMiddleRight2 = "Центральная правая дверь Trafic",
+	ItemName_Base.1990traficDoorRearRight2 = "Задняя правая дверь Trafic",
+	ItemName_Base.1990traficWindowFront2 = "Переднее стекло Trafic",
+	ItemName_Base.1990traficWindowMiddle2 = "Центральное окно Trafic",
+	ItemName_Base.1990traficWindowRear2 = "Заднее окно Trafic",
+	ItemName_Base.1990traficHood2 = "Капот Trafic",
+	ItemName_Base.1990traficTrunk2 = "Крышка багажника Trafic",
+	ItemName_Base.1990traficWheel2 = "Колесо Trafic",
+	ItemName_Base.1990traficFrontWindshield2 = "Лобовое стекло Trafic",
+	ItemName_Base.1990traficRearWindshield2 = "Заднее стекло Trafic",
+	ItemName_Base.1990traficSeatFront2 = "Сиденье Trafic",
 }

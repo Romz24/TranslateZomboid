@@ -33,6 +33,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=29894
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814]Real Ladder[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2877637197]ShowAttackDistance[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2989871420]Fiat Fiorino 1992[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3006496838]Renault Trafic 1990[/url]
 description=[/olist]
 tags=Build 41;Language/Translation
 visibility=public
