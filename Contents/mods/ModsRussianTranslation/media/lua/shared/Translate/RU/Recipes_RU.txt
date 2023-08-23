@@ -58,4 +58,16 @@ Recipe_RU = {
 	Recipe_Make_63beetle_Rear_Bumper_mk2 = "Сделать задний бампер (ур.2) 63beetle",
 	Recipe_Make_63beetle_Sidesteps = "Сделать пороги 63beetle",
 	Recipe_Make_63beetle_Roofrack = "Сделать багажник на крышу 63beetle",
+	
+	// '93 Ford Mustang SSP
+	Recipe_Make_SSP93_Tire = "Сделать шину SSP93",
+	Recipe_Make_SSP93_Front_Side_Window = "Сделать переднее окно SSP93",
+	Recipe_Make_SSP93_Rear_Side_Window = "Сделать заднее окно SSP93",
+	Recipe_Make_SSP93_Windshield = "Сделать лобовое стекло SSP93",
+	Recipe_Make_SSP93_Rear_Windshield = "Сделать заднее стекло SSP93",
+	Recipe_Make_SSP93_Front_Window_Armor = "Сделать броню переднего окна SSP93",
+	Recipe_Make_SSP93_Rear_Window_Armor = "Сделать броню заднего окна SSP93",
+	Recipe_Make_SSP93_Windshield_Armor = "Сделать заднее стекло SSP93",
+	Recipe_Make_SSP93_Rear_Windshield_Armor = "Сделать броню заднего стекла SSP93",
+	Recipe_Make_SSP93_Push_Bumper = "Сделать кенгурятник SSP93",
 }

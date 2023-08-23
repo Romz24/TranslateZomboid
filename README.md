@@ -13,6 +13,7 @@
 * ['78 AM General M35A2 + M49A2C + M50A3 + M62](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995)
 * ['91 Geo Metro](https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514)
 * ['63 Volkswagen 1300 Beetle](https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549)
+* ['93 Ford Mustang SSP](https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312)
 * [More Description for Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362) (Перевод отсутстующих строк)
 * [Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)
 * [Proximity Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2847184718)

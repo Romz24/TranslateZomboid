@@ -16,6 +16,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=29802
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995]'78 AM General M35A2 + M49A2C + M50A3 + M62[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514]'91 Geo Metro[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549]'63 Volkswagen 1300 Beetle[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312]'93 Ford Mustang SSP[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362]More Description for Traits[/url] (Перевод отсутстующих строк)
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776]Alternative Inventory Rendering[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847184718]Proximity Inventory[/url]

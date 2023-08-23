@@ -176,4 +176,23 @@ ItemName_RU = {
 	ItemName_Base.63beetleHPRoof0 = "Съемная крыша Volkswagen 1300",
 	ItemName_Base.63beetleBuggySpoiler0 = "Спойлер Volkswagen 1300 Buggy",
 	ItemName_Base.63beetleSmallSpoiler0 = "Спойлер Volkswagen 1300",
+	
+	// '93 Ford Mustang SSP
+	ItemName_Base.93mustangSSPTire1 = "Шина 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPFrontDoor1 = "Передняя дверь 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPWindshieldArmor = "Броня лобового стекла 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPFrontWindowArmor = "Броня переднего окна 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPRearWindowArmor = "Броня заднего окна 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPWindshieldRearArmor = "Броня заднего стекла 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPEngineDoor1 = "Капот 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPTrunkDoor1 = "Крышка багажника 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPSeatFront1 = "Переднее сиденье 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPSeatRear1 = "Заднее сиденье 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPBumperFront0 = "Передний бампер 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPBumperFront1 = "Кенгурятник 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPBumperRear0 = "Задний бампер 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPWindshield1 = "Лобовое стекло 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPFrontSideWindow1 = "Переднее окно 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPRearSideWindow1 = "Заднее окно 93 Ford Mustang SSP",
+	ItemName_Base.93mustangSSPRearWindshield1 = "Заднее стекло 93 Ford Mustang SSP",
 }
