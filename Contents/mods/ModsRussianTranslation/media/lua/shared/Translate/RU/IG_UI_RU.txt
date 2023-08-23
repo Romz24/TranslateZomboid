@@ -217,4 +217,29 @@ IG_UI_RU = {
 	IGUI_ShowAttackDistance_Active = "Видимость дистанции атаки: Включена",
 	IGUI_ShowAttackDistance_Hidden = "Видимость дистанции атаки: Выключена",
 	IGUI_ShowAttackDistance_Switch = "Нажмите, чтобы изменить состояние видимости.",
+	
+	// '63 Volkswagen 1300 Beetle
+	IGUI_VehiclePartBTL63FrontBumper = "Передний бампер",
+	IGUI_VehiclePartBTL63RearBumper = "Задний бампер",
+	IGUI_VehiclePartBTL63Sidesteps = "Пороги",
+	IGUI_VehiclePartBTL63Bodykit = "Обвес",
+	IGUI_VehiclePartBTL63Spare = "Запасное колесо",
+	IGUI_VehiclePartBTL63SpareA = "Запасное колесо",
+	IGUI_VehiclePartBTL63SpareB = "Запасное колесо",
+	IGUI_VehiclePartBTL63SpareC = "Запасное колесо",
+	IGUI_VehiclePartBTL63SpareD = "Запасное колесо",
+	IGUI_VehiclePartBTL63Roof = "Съемная крыша",
+	IGUI_VehiclePartBTL63SmallSpoiler = "Спойлер",
+	IGUI_VehiclePartBTL63BuggySpoiler = "Спойлер",
+	
+	IGUI_VehiclePartBTL63Trunk = "Багажник",
+	IGUI_VehiclePartBTL63InnerTrunk = "Внутренний багажник",
+	IGUI_VehiclePartBTL63Roofrack = "Багажник на крыше",
+	
+	IGUI_VehiclePartBTL63WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartBTL63FrontLeftArmor = "Броня левого переднего окна",
+	IGUI_VehiclePartBTL63FrontRightArmor = "Броня правого переднего окна",
+	IGUI_VehiclePartBTL63RearLeftArmor = "Броня левого заднего окна",
+	IGUI_VehiclePartBTL63RearRightArmor = "Броня правого заднего окна",
+	IGUI_VehiclePartBTL63WindshieldRearArmor = "Броня заднего стекла",
 }
