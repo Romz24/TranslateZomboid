@@ -9,7 +9,7 @@ Recipe_RU = {
 	Recipe_Make_ISO_Container_Tunker_Lid = "Сделать крышку для бака ISO контейнера",
 	
 	// '91 Geo Metro
-	Recipe_Make_GEO91_Tire = "Сделать колесо для GEO91",
+	Recipe_Make_GEO91_Tire = "Сделать шину для GEO91",
 	Recipe_Make_GEO91_Front_Side_Window = "Сделать переднее боковое окно для GEO91",
 	Recipe_Make_GEO91_Rear_Side_Window = "Сделать заднее боковое окно для GEO91",
 	Recipe_Make_GEO91_Windshield = "Сделать лобовое стекло для GEO91",
@@ -24,10 +24,10 @@ Recipe_RU = {
 	Recipe_Dismantle_Wooden_Armor = "Разобрать деревянную броню",
 	
 	// '78 AM General M35A2 + M49A2C + M50A3 + M62
-	Recipe_Convert_M35A2_RunFlat_Tire = "Переделать колесо M35A2 в бескамерное колесо",
-	Recipe_Convert_Standard_RunFlat_Tire = "Переделать бескамерное колесо в колесо M35A2",
-	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать бескамерную ось для 4 колес M35A2",
-	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать бескамерную ось для 4 колес M35A2",
+	Recipe_Convert_M35A2_RunFlat_Tire = "Переделать шину M35A2 в бескамерную шину",
+	Recipe_Convert_Standard_RunFlat_Tire = "Переделать бескамерную шину в шину M35A2",
+	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать бескамерную ось для 4 шин M35A2",
+	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать бескамерную ось для 4 шин M35A2",
 	Recipe_Make_M35A2_Muffler = "Сделать глушитель M35A2",
 	Recipe_Make_M35A2_Stake_Construction = "Сделать стойки кузова с дугами M35A2",
 	Recipe_Make_M35A2_Tarp_cover = "Сделать брезентовую крышу M35A2",
@@ -40,9 +40,9 @@ Recipe_RU = {
 	Recipe_Make_M35A2_Door_Armor = "Сделать броню двери M35A2",
 	
 	// '63 Volkswagen 1300 Beetle
-	Recipe_Make_63beetle_Tire = "Сделать колесо 63beetle",
-	Recipe_Make_63beetle_Offroad_Tire = "Сделать внедорожное колесо 63beetle",
-	Recipe_Make_63beetle_Slick_Tire = "Сделать гладкое колесо 63beetle",
+	Recipe_Make_63beetle_Tire = "Сделать шину 63beetle",
+	Recipe_Make_63beetle_Offroad_Tire = "Сделать внедорожную шину 63beetle",
+	Recipe_Make_63beetle_Slick_Tire = "Сделать гладкуб шину 63beetle",
 	Recipe_Make_63beetle_Windshield = "Сделать лобовое стекло 63beetle",
 	Recipe_Make_63beetle_Front_Side_Window = "Сделать переднее окно 63beetle",
 	Recipe_Make_63beetle_Rear_Side_Window = "Сделать заднее окно 63beetle",
