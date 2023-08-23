@@ -359,4 +359,10 @@ UI_RU = {
 	UI_AutoCookProteinsLowWarning3 = "Вам действительно нужно больше белков.",
 	UI_AutoCookProteinsLowWarning4 = "Вы, скорее всего, умрете от недостатка белков.",
 	UI_AutoCookProteinsHighWarning1 = "Вам следует уменьшить количество белков.",
+	
+	// Addicted To Weight
+	UI_P4AddictedToWeight_Options_ShowHumanIcon_Name = "Показать иконку человека",
+	UI_P4AddictedToWeight_Options_ShowHumanIcon_Tooltip = "Установите флажок, если хотите видеть иконку человека.",
+	UI_P4AddictedToWeight_Options_WeightChangeNotification_Name = "Уведомление о изменении веса",
+	UI_P4AddictedToWeight_Options_WeightChangeNotification_Tooltip = "Установите флажок, если хотите получать уведомления при изменении веса.",
 }
