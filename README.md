@@ -29,3 +29,4 @@
 * [Bulletproof Vests Under Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2989423869)
 * [Real Ladder](https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814)
 * [ShowAttackDistance](https://steamcommunity.com/sharedfiles/filedetails/?id=2877637197)
+* [Fiat Fiorino 1992](https://steamcommunity.com/sharedfiles/filedetails/?id=2989871420)

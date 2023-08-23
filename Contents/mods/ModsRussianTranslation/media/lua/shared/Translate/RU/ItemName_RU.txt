@@ -120,4 +120,15 @@ ItemName_RU = {
 	ItemName_Pillz.PillsSurvival = "Таблетка выживания",
 	ItemName_Pillz.PillsCrafting = "Таблетка создания",
 	ItemName_Pillz.PillsDeath = "Таблетка смерти",
+	
+	// Fiat Fiorino 1992
+	ItemName_Base.1992fiorinoDoorFrontLeft1 = "Передняя левая дверь Fiorino",
+	ItemName_Base.1992fiorinoDoorFrontRight1 = "Передняя правая дверь Fiorino",
+	ItemName_Base.1992fiorinoWindowFront1 = "Переднее окно Fiorino",
+	ItemName_Base.1992fiorinoHood1 = "Капот Fiorino",
+	ItemName_Base.1992fiorinoTrunk1 = "Дверь багажника Fiorino",
+	ItemName_Base.1992fiorinoWheel1 = "Колесо Fiorino",
+	ItemName_Base.1992fiorinoFrontWindshield1 = "Лобовое стекло Fiorino",
+	ItemName_Base.1992fiorinoRearWindshield1 = "Заднее стекло Fiorino",
+	ItemName_Base.1992fiorinoSeatFront1 = "Переднее сиденье Fiorino",
 }
