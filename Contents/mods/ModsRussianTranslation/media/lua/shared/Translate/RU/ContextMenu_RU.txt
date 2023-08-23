@@ -49,4 +49,10 @@ ContextMenu_RU = {
 	// Real Ladder
 	ContextMenu_QNW_Ladder_Ladder = "Лестница",
 	ContextMenu_QNW_Ladder_LadderWithFloor = "Лестница с полом",
+	
+	// Better Batteries
+	ContextMenu_Crank_LowStam = "Слишком устал.",
+	ContextMenu_Crank_NeedBattery = "Вставьте батарейку для зарядки.",
+	ContextMenu_Crank_FullBattery = "Невозможно зарядить полностью заряженную батарейку.",
+	ContextMenu_Crank_ChargeWith = "Зарядить батарейку с помощью",
 }

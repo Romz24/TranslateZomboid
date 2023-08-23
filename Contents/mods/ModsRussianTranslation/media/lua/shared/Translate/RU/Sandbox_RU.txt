@@ -119,4 +119,19 @@ Sandbox_RU = {
 	Sandbox_Pillz = "Таблетки",
 	Sandbox_minLevelUpgrade = "Минимальный уровень для улучшения",
 	Sandbox_turnOffMetabolism = "Выключить метаболизм",
+	
+	// Better Batteries
+	Sandbox_BetterBatteries = "Улучшенные батарейки",
+	Sandbox_BetterBatteries_CrankTime = "Базовое время зарядки",
+	Sandbox_BetterBatteries_CrankTime_tooltip = "Количество игровых минут, необходимых для зарядки батарейки с пустой до полной без баффов и дебаффов.",
+	Sandbox_BetterBatteries_StrengthBuff = "Бонус скорости зарядки за силу",
+	Sandbox_BetterBatteries_StrengthBuff_tooltip = "Определяет, будет ли уровень силы влиять на ускорение времени зярдки.",
+	Sandbox_BetterBatteries_EndurancePenalty = "Штраф скорости зарядки за выносливость",
+	Sandbox_BetterBatteries_EndurancePenalty_tooltip = "Определяет, будет ли низкая выносливость влиять на увеличение времени зарядки. (Независимо от этой настройки, вы не сможете использовать зарядное устройство при крайне низкой выносливости.)",
+	Sandbox_BetterBatteries_UnhappinessPenalty = "Штраф скорости зарядки за несчастье",
+	Sandbox_BetterBatteries_UnhappinessPenalty_tooltip = "Определяет, будет ли несчастье влиять на увеличение времени зарядки.",
+	Sandbox_BetterBatteries_MaxCharge = "Максимальный заряд батарейки",
+	Sandbox_BetterBatteries_MaxCharge_tooltip = "Устанавливает максимальный заряд, который зарядное устройство может восстановить в батарейке.",
+	Sandbox_BetterBatteries_LifetimeMult = "Множитель срока службы батарейки",
+	Sandbox_BetterBatteries_LifetimeMult_tooltip = "Множитель срока службы, применяемый ко всем электрическим устройствам, использующим батарейки. (Отрицательное значение означает неограниченный заряд, 0 означает мгновенную потерю заряда.)",
 }

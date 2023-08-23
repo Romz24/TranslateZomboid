@@ -38,6 +38,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=28776
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2989871420]Fiat Fiorino 1992[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3006496838]Renault Trafic 1990[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2604943386]Addicted To Weight[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2856174410]Better Batteries[/url]
 description=[/olist]
 tags=Build 41;Language/Translation
 visibility=public

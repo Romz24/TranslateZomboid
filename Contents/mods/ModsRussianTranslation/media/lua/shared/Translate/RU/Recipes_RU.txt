@@ -82,4 +82,9 @@ Recipe_RU = {
 	Recipe_Make_CVPI99_Windshield_Armor = "Сделать заднее стекло CVPI99",
 	Recipe_Make_CVPI99_Rear_Windshield_Armor = "Сделать броню заднего стекла CVPI99",
 	Recipe_Make_CVPI99_Push_Bumper = "Сделать кенгурятник CVPI99",
+	
+	// Better Batteries
+	Recipe_Make_Makeshift_Hand_Crank = "Сделать самодельное зарядное устройство",
+	Recipe_Insert_Battery_into_Makeshift_Hand_Crank = "Вставить батарейку в самодельное зарядное устройство",
+	Recipe_Insert_Battery_into_Hand_Crank = "Вставить батарейку в зарядное устройство",
 }

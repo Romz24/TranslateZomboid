@@ -35,3 +35,4 @@
 * [Fiat Fiorino 1992](https://steamcommunity.com/sharedfiles/filedetails/?id=2989871420)
 * [Renault Trafic 1990](https://steamcommunity.com/sharedfiles/filedetails/?id=3006496838)
 * [Addicted To Weight](https://steamcommunity.com/sharedfiles/filedetails/?id=2604943386)
+* [Better Batteries](url=https://steamcommunity.com/sharedfiles/filedetails/?id=2856174410)

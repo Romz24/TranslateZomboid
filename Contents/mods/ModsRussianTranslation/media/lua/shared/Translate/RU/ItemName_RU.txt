@@ -216,4 +216,8 @@ ItemName_RU = {
 	ItemName_Base.99fordCVPIRearSideWindow1 = "Заднее окно 99 Ford CVPI",
 	ItemName_Base.99fordCVPIRearWindshield1 = "Заднее стекло 99 Ford CVPI",
 	ItemName_Base.99fordCVPICabBarrier1 = "Перегородка кабины 99 Ford CVPI",
+	
+	// Better Batteries
+	ItemName_Base.HandCrank = "Зарядное устройство",
+	ItemName_Base.MakeshiftCrank = "Самодельное зарядное устройство",
 }
