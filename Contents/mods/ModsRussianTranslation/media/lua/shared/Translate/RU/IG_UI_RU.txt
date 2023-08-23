@@ -56,7 +56,7 @@ IG_UI_RU = {
 	IGUI_VehiclePartM35A1SpareTire = "Запасная передняя шина M35A1",
 	IGUI_VehiclePartM35A1WindshieldArmor = "Бронированное лобовое стекло",
 	IGUI_VehiclePartM35A1FrontRightWindowArmor = "Бронированное правое окно",
-	IGUI_VehiclePartM35A1FrontLeftWindowArmor = "Бронированное левое окно",'
+	IGUI_VehiclePartM35A1FrontLeftWindowArmor = "Бронированное левое окно",
 	IGUI_VehiclePartM35A1FrontRightDoorArmor = "Бронированная правая дверь",
 	IGUI_VehiclePartM35A1FrontLeftDoorArmor = "Бронированная левая дверь",
 	
@@ -77,7 +77,7 @@ IG_UI_RU = {
 	IGUI_VehiclePartFordMustangBullbar = "Кенгурятник",
 	IGUI_VehiclePartFordMustangWindshieldArmor = "Бронированное лобовое стекло",
 	IGUI_VehiclePartFordMustangFrontRightWindowArmor = "Бронированное правое окно",
-	IGUI_VehiclePartFordMustangFrontLeftWindowArmor = "Бронированное левое окно",'
+	IGUI_VehiclePartFordMustangFrontLeftWindowArmor = "Бронированное левое окно",
 	IGUI_VehiclePartFordMustangFrontRightDoorArmor = "Бронированная передняя правая дверь",
 	IGUI_VehiclePartFordMustangFrontLeftDoorArmor = "Бронированная передняя левая дверь",
 	IGUI_VehiclePartFordMustangRearRightDoorArmor = "Бронированная задняя правая дверь",

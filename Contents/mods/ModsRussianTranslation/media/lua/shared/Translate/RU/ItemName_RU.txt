@@ -85,7 +85,7 @@ ItemName_RU = {
 	ItemName_Base.500_Water_Tank2 = "Резервуар для хранения воды",
 	
 	// Braven's Nail Guns
-	ItemName_Base.Nailgun1 = "Гвоздомёт"
+	ItemName_Base.Nailgun1 = "Гвоздомёт",
 	ItemName_Base.Nailgun2 = "Тактический гвоздомёт",
 	ItemName_Base.NailClip = "Магазин для гвоздей",
 	
