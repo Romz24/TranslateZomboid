@@ -418,4 +418,10 @@ ItemName_RU = {
 	ItemName_Base.W460SideWindow2 = "Боковое окно W460",
 	ItemName_Base.W460RearWindshield2 = "Заднее стекло W460",
 	ItemName_Base.W460Mudflaps1_Item = "Брызговики W460",
+	
+	// PertsPartyTiles
+	ItemName_Base.OverlookFireAxe = "Топор",
+	ItemName_Base.BatLeth = "Бат'лет",
+	ItemName_Base.MekLeth = "Мек'лет",
+	ItemName_Base.AZZK_pistol = "Пистолет AZZK",
 }

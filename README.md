@@ -44,4 +44,4 @@
 * [The Only Cure](https://steamcommunity.com/sharedfiles/filedetails/?id=2703664356)
 * [Tsar's Common Library 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985) (Перевод отсутстующих строк)
 * [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298) (Перевод отсутстующих строк)
-
+* [PertsPartyTiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2837923608)
