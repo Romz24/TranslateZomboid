@@ -55,4 +55,8 @@ ContextMenu_RU = {
 	ContextMenu_Crank_NeedBattery = "Вставьте батарейку для зарядки.",
 	ContextMenu_Crank_FullBattery = "Невозможно зарядить полностью заряженную батарейку.",
 	ContextMenu_Crank_ChargeWith = "Зарядить батарейку с помощью",
+	
+	// The Only Cure
+	ContextMenu_Cut_Arm = "Отрезать руку",
+	ContextMenu_Operate_Arm = "Оперировать руку",
 }

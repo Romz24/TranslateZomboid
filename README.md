@@ -36,3 +36,4 @@
 * [Renault Trafic 1990](https://steamcommunity.com/sharedfiles/filedetails/?id=3006496838)
 * [Addicted To Weight](https://steamcommunity.com/sharedfiles/filedetails/?id=2604943386)
 * [Better Batteries](https://steamcommunity.com/sharedfiles/filedetails/?id=2856174410)
+* [The Only Cure](https://steamcommunity.com/sharedfiles/filedetails/?id=2703664356)

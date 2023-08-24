@@ -134,4 +134,11 @@ Sandbox_RU = {
 	Sandbox_BetterBatteries_MaxCharge_tooltip = "Устанавливает максимальный заряд, который зарядное устройство может восстановить в батарейке.",
 	Sandbox_BetterBatteries_LifetimeMult = "Множитель срока службы батарейки",
 	Sandbox_BetterBatteries_LifetimeMult_tooltip = "Множитель срока службы, применяемый ко всем электрическим устройствам, использующим батарейки. (Отрицательное значение означает неограниченный заряд, 0 означает мгновенную потерю заряда.)",
+	
+	// The Only Cure
+	Sandbox_TOC = "Единственное лекарство",
+	Sandbox_TOC_RollUpSleeves = "Закатать рукава",
+	Sandbox_TOC_RollUpSleeves_tooltip = "В настоящее время не работает, не будет иметь эффекта",
+	Sandbox_TOC_CicatrizationSpeedMultiplier = "Множитель скорости заживления",
+	Sandbox_TOC_CicatrizationSpeedMultiplier_tooltip = "Настройте это значение, чтобы ускорить процесс заживления",
 }

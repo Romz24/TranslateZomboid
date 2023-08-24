@@ -87,4 +87,12 @@ Recipe_RU = {
 	Recipe_Make_Makeshift_Hand_Crank = "Сделать самодельное зарядное устройство",
 	Recipe_Insert_Battery_into_Makeshift_Hand_Crank = "Вставить батарейку в самодельное зарядное устройство",
 	Recipe_Insert_Battery_into_Hand_Crank = "Вставить батарейку в зарядное устройство",
+	
+	// The Only Cure
+	Recipe_Combine_improvised_surgeon_kit = "Сделать простой набор хирурга",
+	Recipe_Combine_surgeon_kit = "Сделать хороший набор хирурга",
+	Recipe_Combine_real_surgeon_kit = "Сделать качественный набор хирурга",
+	Recipe_Make_wooden_hook = "Сделать деревянный крюк",
+	Recipe_Make_metal_hook = "Сделать металлический крюк",
+	Recipe_Make_metal_hand = "Сделать металлическую руку",
 }

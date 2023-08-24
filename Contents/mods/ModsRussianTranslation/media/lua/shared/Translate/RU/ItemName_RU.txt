@@ -220,4 +220,41 @@ ItemName_RU = {
 	// Better Batteries
 	ItemName_Base.HandCrank = "Зарядное устройство",
 	ItemName_Base.MakeshiftCrank = "Самодельное зарядное устройство",
+	
+	// The Only Cure
+	ItemName_TOC.Amputation_Right_Hand = "Ампутированная правая кисть",
+	ItemName_TOC.Amputation_Right_LowerArm = "Ампутированное правое предплечье",
+	ItemName_TOC.Amputation_Right_UpperArm = "Полностью ампутированная правая рука",
+	ItemName_TOC.Amputation_Left_Hand = "Ампутированная левая кисть",
+	ItemName_TOC.Amputation_Left_LowerArm = "Ампутированное левое предплечье",
+	ItemName_TOC.Amputation_Left_UpperArm = "Полностью ампутированная левая рука",
+	
+	ItemName_TOC.Improvised_surgeon_kit = "Простой набор хирурга",
+	ItemName_TOC.Surgeon_kit = "Хороший набор хирурга",
+	ItemName_TOC.Real_surgeon_kit = "Качественный набор хирурга",
+	
+	ItemName_TOC.Prost_Right_Hand_WoodenHook = "Правая рука - деревянный крюк",
+	ItemName_TOC.Prost_Left_Hand_WoodenHook = "Левая рука - деревянный крюк",
+	ItemName_TOC.Prost_Right_LowerArm_WoodenHook = "Правое предплечье - деревянный крюк",
+	ItemName_TOC.Prost_Left_LowerArm_WoodenHook = "Левое предплечье - деревянный крюк",
+	ItemName_TOC.Prost_Right_Hand_MetalHook = "Правая рука - металлический крюк",
+	ItemName_TOC.Prost_Left_Hand_MetalHook = "Левая рука - металлический крюк",
+	ItemName_TOC.Prost_Right_LowerArm_MetalHook = "Правое предплечье - металлический крюк",
+	ItemName_TOC.Prost_Left_LowerArm_MetalHook = "Левое предплечье - металлический крюк",
+	ItemName_TOC.Prost_Right_Hand_MetalHand = "Правая рука - металлическая рука",
+	ItemName_TOC.Prost_Left_Hand_MetalHand = "Левая рука - металлическая рука",
+	ItemName_TOC.Prost_Right_LowerArm_MetalHand = "Правое предплечье - металлическая рука",
+	ItemName_TOC.Prost_Left_LowerArm_MetalHand = "Левое предплечье - металлическая рука",
+	
+	ItemName_TOC.WoodenHook = "Деревянный крюк",
+	ItemName_TOC.MetalHook = "Металлический крюк",
+	ItemName_TOC.MetalHand = "Металлическая рука",
+	ItemName_TOC.ProstheticKnife = "Протезированный нож",
+	
+	ItemName_TOC.SurgeonMag1 = "Журнал «Хирургия для чайников»",
+	ItemName_TOC.SurgeonMag2 = "Журнал «Хирургия для опытных»",
+	ItemName_TOC.SurgeonMag3 = "Журнал «Хирургия для специалистов»",
+	ItemName_TOC.ProthesisMag1 = "Журнал «Протезирование для чайников»",
+	ItemName_TOC.ProthesisMag2 = "Журнал «Протезирование для опытных»",
+	ItemName_TOC.ProthesisMag3 = "Журнал «Протезирование для специалистов»",
 }

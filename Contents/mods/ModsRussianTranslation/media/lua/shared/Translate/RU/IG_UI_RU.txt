@@ -273,4 +273,14 @@ IG_UI_RU = {
 	
 	IGUI_VehiclePartCVPI99Trunk = "Багажник",
 	IGUI_VehiclePartCVPI99Gunrack = "Держатель для оружия",
+	
+	// The Only Cure
+	IGUI_ItemCat_Prosthesis = "Протезирование",
+	IGUI_ItemCat_Amputation = "Ампутация",
+	IGUI_ItemCat_Surgeon_kit = "Набор хирурга",
+	IGUI_perks_Right_Hand = "Правая рука",
+	IGUI_perks_Left_Hand = "Левая рука",
+	IGUI_perks_Prosthesis = "Навык протезирования",
+	
+	IGUI_TOC_RollUpSleeveForAmputatedLimbs = "Закатать рукав у ампутированных конечностей",
 }

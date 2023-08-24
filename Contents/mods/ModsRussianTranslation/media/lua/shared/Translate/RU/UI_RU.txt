@@ -365,4 +365,36 @@ UI_RU = {
 	UI_P4AddictedToWeight_Options_ShowHumanIcon_Tooltip = "Установите флажок, если хотите видеть иконку человека.",
 	UI_P4AddictedToWeight_Options_WeightChangeNotification_Name = "Уведомление о изменении веса",
 	UI_P4AddictedToWeight_Options_WeightChangeNotification_Tooltip = "Установите флажок, если хотите получать уведомления при изменении веса.",
+	
+	// The Only Cure
+	UI_ContextMenu_InstallProthesis = "Надеть протез",
+	UI_ContextMenu_UninstallProthesis = "Снять протез",
+	UI_ContextMenu_Operate = "Оперировать",
+	UI_ContextMenu_OperateOven = "Оперировать с помощью набора",
+	UI_ContextMenu_CutArm = "Отрезать руку",
+	
+	UI_prof_surgeon = "Хирург",
+	UI_profdesc_surgeon = "Вы хирург! Вы знаете все рецепты протезирования.<br>А так же, вы лучше опреируете и ампутируете конечности.",
+	
+	UI_trait_Amputee_Hand = "Ампутированная кисть",
+	UI_trait_Amputee_Hand_desc = "Начните игру с отрезанной и зажившей кистью.",
+	UI_trait_Amputee_LowerArm = "Ампутированное предплечье",
+	UI_trait_Amputee_LowerArm_desc = "Начните игру с отрезанным и зажившим предплечьем.",
+	UI_trait_Amputee_UpperArm = "Полностью ампутированная рука",
+	UI_trait_Amputee_UpperArm_desc = "Начните игру с отрезанной рукой и попытайтесь выжить, удачи.",
+	UI_trait_Insensitive = "Нечувствителен к боли",
+	UI_trait_Insensitivedesc = "Уменьшает максимальную боль.",
+	
+	UI_ContextMenu_Right_Hand = "Правая кисть",
+	UI_ContextMenu_Right_LowerArm = "Правое предплечье",
+	UI_ContextMenu_Right_UpperArm = "Правая рука",
+	UI_ContextMenu_Left_Hand = "Левая кисть",
+	UI_ContextMenu_Left_LowerArm = "Левое предплечье",
+	UI_ContextMenu_Left_UpperArm = "Левая рука",
+	
+	UI_ContextMenu_My = "Моя ",
+	UI_ContextMenu_Now_cut = " теперь заживет!",
+	
+	UI_ContextMenu_Heal_from_zomb = "Думаю, со мной все будет в порядке!",
+	UI_ContextMenu_Cut_for_nothing = "Я зря это сделал...",
 }
