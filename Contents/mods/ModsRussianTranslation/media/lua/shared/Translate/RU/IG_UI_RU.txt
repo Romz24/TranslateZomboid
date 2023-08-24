@@ -311,4 +311,25 @@ IG_UI_RU = {
 	IGUI_StreetSweeper_AutoDeleteOn = "Новые предметы будут автоматически удаляться",
 	IGUI_StreetSweeper_AutoDeleteOff = "Новые предметы будут помещаться в хранилище отходов",
 	IGUI_StreetSweeper_ToggleAutoDelete = "Автоматическое удаление",
+	
+	// '92 AM General M998 + M101A3 Cargo trailer
+	IGUI_VehiclePartM998Trunk = "Багажник",
+	IGUI_VehiclePartM998BackCover = "Задняя крыша",
+	IGUI_VehiclePartM998SpareTire = "Запасная шина",
+	IGUI_VehiclePartM998Mudflaps = "Брызговики",
+	IGUI_VehiclePartM998Bullbar = "Кенгурятник",
+	IGUI_VehiclePartM998Muffler = "Глушитель",
+	IGUI_VehiclePartM998TrunkBarrier = "Перегородка багажника",
+	IGUI_VehiclePartM998DoorFrontLeftArmor = "Броня передней левой двери",
+	IGUI_VehiclePartM998DoorFrontRightArmor = "Броня передней правой двери",
+	IGUI_VehiclePartM998DoorRearLeftArmor = "Броня задней левой двери",
+	IGUI_VehiclePartM998DoorRearRightArmor = "Броня задней правой двери",
+	IGUI_VehiclePartM998WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartM998Roofrack = "Багажник на крыше",
+	
+	IGUI_VehiclePartTrunkDoorTwo = "Верхняя крышка багажника",
+	IGUI_VehiclePartM101A3Cover = "Жесткая крыша прицепа",
+	IGUI_VehiclePartM101A3Tarp = "Брезентовая крыша прицепа",
+	IGUI_VehiclePartM101A3Spare = "Передняя запасная шина",
+	IGUI_VehiclePartM101A3Trunk = "Багажник прицепа",
 }

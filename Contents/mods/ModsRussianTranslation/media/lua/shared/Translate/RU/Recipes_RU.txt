@@ -131,4 +131,20 @@ Recipe_RU = {
 	Recipe_Make_CF8K_Windshield = "Сделать лобовое стекло CF8K",
 	Recipe_Make_CF8K_Rear_Windshield = "Сделать заднее стекло CF8K",
 	Recipe_Make_CF8K_Bumper = "Сделать бампер CF8K",
+	
+	// '92 AM General M998 + M101A3 Cargo trailer
+	Recipe_Make_M998_Side_Window = "Сделать боковое окно M998",
+	Recipe_Make_M998_Windshield = "Сделать лобовое стекло M998",
+	Recipe_Make_M998_Small_Muffler = "Сделать маленький глушитель M998",
+	Recipe_Make_M998_Net_Trunk_Barrier = "Сделать переговорку багажника из сетки M998",
+	Recipe_Make_M101A3_Tarp = "Сделать брезентовую крышу M101A3",
+	Recipe_Make_M998_Front_Door_Armor = "Сделать броню передней двери M998",
+	Recipe_Make_M998_Rear_Door_Armor = "Сделать броню задней двери M998",
+	Recipe_Make_M998_Makeshift_Windshield_Armor = "Сделать самодельную броню лобового стекла M998",
+	Recipe_Make_M998_Windshield_Armor = "Сделать броню лобового стекла M998",
+	Recipe_Make_M998_Big_Bullbar = "Сделать большой кенгурятник M998",
+	Recipe_Make_M998_Roofrack = "Сделать багажник на крыше M998",
+	Recipe_Convert_M998_RunFlat_Tire = "Переделать RunFlat шину M998",
+	Recipe_Convert_Standard_RunFlat_Tire = "Переделать стандартную RunFlat шину",
+	Recipe_Dismantle_Spare_Tire_with_Mount = "Разобрать запасную шину с креплением",
 }
