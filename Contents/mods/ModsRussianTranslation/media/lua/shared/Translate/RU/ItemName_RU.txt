@@ -295,4 +295,41 @@ ItemName_RU = {
 	
 	// Common Sense
 	ItemName_Base.EmptyConcreteBag = "Мешок",
+	
+	// '82 Oshkosh M911 + Military Semi-Trailers
+	ItemName_OshkoshShirts.TShirt_OshkoshGray = "Серая футболка «Oshkosh»",
+	ItemName_OshkoshShirts.TShirt_OshkoshBlack = "Черная футболка «Oshkosh»",
+	ItemName_OshkoshShirts.TShirt_bknht = "Футболка «T-Shirt»",
+	ItemName_OshkoshShirts.Hoodie_OshkoshBlack = "Черная толстовка «Oshkosh»",
+	ItemName_OshkoshShirts.HoodieDOWN_OshkoshBlac = "Черная толстовка «Oshkosh»",
+	ItemName_OshkoshShirts.Hoodie_OshkoshGray = "Серая толстовка «Oshkosh»",
+	ItemName_OshkoshShirts.HoodieDOWN_OshkoshGray = "Серая толстовка «Oshkosh»",
+	
+	ItemName_USMIL.Seat0 = "Сиденье для грузовика",
+	
+	ItemName_Base.V100Tire2 = "RunFlat шина",
+	ItemName_Base.V100Tires2 = "Двойная RunFlat шина",
+	ItemName_Base.V100Axle2 = "Ось с 4 RunFlat шинами",
+	ItemName_Base.V100AxleSmall2 = "Маленькая ось с 4 шинами",
+	
+	ItemName_Base.M911Trunk2 = "Багажник",
+	ItemName_Base.M967SmallTrunk2 = "Багажник",
+	ItemName_Base.M911Toolbox2 = "Багажник",
+	ItemName_Base.M911EngineDoor2 = "Капот M911",
+	ItemName_Base.M911TrunkDoor2 = "Крышка багажника M911",
+	ItemName_Base.M127TrunkDoor2 = "Крышка багажника M127",
+	ItemName_Base.M128TrunkDoor2 = "Двери багажника M128",
+	ItemName_Base.M129TrunkDoor2 = "Дверь багажника M129",
+	ItemName_Base.M967TrunkDoor2 = "Крышка багажника M967",
+	ItemName_Base.M911CarFrontDoor2 = "Дверь M911",
+	ItemName_Base.M911Windshield2 = "Лобовое стекло M911",
+	ItemName_Base.M911SideWindow2 = "Переднее окно M911",
+	ItemName_Base.M911WindshieldRear2 = "Заднее стекло M911",
+	ItemName_Base.M911CarFrontDoorArmor = "Броня переднего окна M911",
+	ItemName_Base.M911WindshieldArmor = "Броня лобового стекла M911",
+	ItemName_Base.M911WindshieldRearArmor = "Броня заднего стекла M911",
+	ItemName_Base.M911Bullbar0 = "Кенгурятник M911",
+	ItemName_Base.M911Bullbar1 = "Самодельный кенгурятник M911",
+	ItemName_Base.M911Muffler = "Глушитель M911",
+	ItemName_Base.M911Mudflaps = "Брызговики M911",
 }

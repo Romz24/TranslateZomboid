@@ -283,4 +283,21 @@ IG_UI_RU = {
 	IGUI_perks_Prosthesis = "Навык протезирования",
 	
 	IGUI_TOC_RollUpSleeveForAmputatedLimbs = "Закатать рукав у ампутированных конечностей",
+	
+	// '82 Oshkosh M911 + Military Semi-Trailers
+	IGUI_VehiclePartM911Trunk = "Багажник",
+	IGUI_VehiclePartM911Toolbox = "Отсек для инструментов",
+	IGUI_VehiclePartM911Bullbar = "Кенгурятник",
+	IGUI_VehiclePartM911Mudflaps = "Брызговики",
+	IGUI_VehiclePartM911Muffler = "Глушитель",
+	IGUI_VehiclePartM911SpareTire = "Запасная шина",
+	IGUI_VehiclePartM911WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartM911WindshieldRearArmor = "Броня заднего стекла",
+	IGUI_VehiclePartM911DoorFrontLeftArmor = "Броня левого переднего окна",
+	IGUI_VehiclePartM911DoorFrontRightArmor = "Броня правого переднего окна",
+	
+	IGUI_VehiclePartM967Trunk2 = "Багажник 2",
+	IGUI_VehiclePartM967Trunk3 = "Багажник 3",
+	IGUI_VehiclePartTrunkDoor2 = "Крышка багажника 2",
+	IGUI_VehiclePartTrunkDoor3 = "Крышка багажника 3",
 }
