@@ -312,6 +312,10 @@ IG_UI_RU = {
 	IGUI_StreetSweeper_AutoDeleteOff = "Новые предметы будут помещаться в хранилище отходов",
 	IGUI_StreetSweeper_ToggleAutoDelete = "Автоматическое удаление",
 	
+	// '08 Mercury Sable
+	IGUI_VehiclePartsableSpare = "Отсек для запасной шины",
+	IGUI_VehiclePartCenterConsole = "Центральный бардачок",
+	
 	// '92 AM General M998 + M101A3 Cargo trailer
 	IGUI_VehiclePartM998Trunk = "Багажник",
 	IGUI_VehiclePartM998BackCover = "Задняя крыша",
