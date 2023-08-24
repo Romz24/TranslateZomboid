@@ -300,4 +300,15 @@ IG_UI_RU = {
 	IGUI_VehiclePartM967Trunk3 = "Багажник 3",
 	IGUI_VehiclePartTrunkDoor2 = "Крышка багажника 2",
 	IGUI_VehiclePartTrunkDoor3 = "Крышка багажника 3",
+	
+	// '93 Ford CF8000 Elgin Street Sweeper
+	IGUI_VehiclePartCF8KTrunk = "Хранилище отходов",
+	IGUI_VehiclePartCF8KBumperFront = "Бампер",
+	IGUI_VehiclePartCF8KBrushes = "Щетки",
+	
+	IGUI_StreetSweeper_TrunkFull = "Хранилище отходов заполнено",
+	IGUI_StreetSweeper_SpaceRemaining = "Осталось %1 в хранилище отходов,
+	IGUI_StreetSweeper_AutoDeleteOn = "Новые предметы будут автоматически удаляться",
+	IGUI_StreetSweeper_AutoDeleteOff = "Новые предметы будут помещаться в хранилище отходов",
+	IGUI_StreetSweeper_ToggleAutoDelete = "Автоматическое удаление",
 }

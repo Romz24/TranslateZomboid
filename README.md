@@ -14,6 +14,7 @@
 * ['91 Geo Metro](https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514)
 * ['63 Volkswagen 1300 Beetle](https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549)
 * ['82 Oshkosh M911 + Military Semi-Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077)
+* ['93 Ford CF8000 Elgin Street Sweeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830)
 * ['93 Ford Mustang SSP](https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312)
 * ['99 Ford Crown Victoria Police Interceptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2971246021)
 * [More Description for Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362) (Перевод отсутстующих строк)

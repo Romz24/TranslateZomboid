@@ -122,4 +122,13 @@ Recipe_RU = {
 	Recipe_Make_M911_Windshield_Armor = "Сделать броню лобового стекла M911",
 	Recipe_Make_M911_Rear_Windshield_Armor = "Сделать броню заднего стекла M911",
 	Recipe_Make_M911_Makeshift_Bullbar = "Сделать самодельный кенгурятник M911",
+	
+	// '93 Ford CF8000 Elgin Street Sweeper
+	Recipe_Make_CF8K_Tire = "Сделать шину CF8K",
+	Recipe_Make_CF8K_Double_Tires = "Сделать двойную шину CF8K",
+	Recipe_Make_CF8K_Side_Window = "Сделать переднее боковое окно CF8K",
+	Recipe_Make_CF8K_Side_Window_1 = "Сделать переднее боковое окно CF8K",
+	Recipe_Make_CF8K_Windshield = "Сделать лобовое стекло CF8K",
+	Recipe_Make_CF8K_Rear_Windshield = "Сделать заднее стекло CF8K",
+	Recipe_Make_CF8K_Bumper = "Сделать бампер CF8K",
 }

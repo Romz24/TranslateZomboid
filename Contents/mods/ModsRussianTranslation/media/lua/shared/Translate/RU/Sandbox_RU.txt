@@ -141,4 +141,15 @@ Sandbox_RU = {
 	Sandbox_TOC_RollUpSleeves_tooltip = "В настоящее время не работает, не будет иметь эффекта",
 	Sandbox_TOC_CicatrizationSpeedMultiplier = "Множитель скорости заживления",
 	Sandbox_TOC_CicatrizationSpeedMultiplier_tooltip = "Настройте это значение, чтобы ускорить процесс заживления",
+	
+	// '93 Ford CF8000 Elgin Street Sweeper
+	Sandbox_StreetSweeper = "Уборочная машина",
+	Sandbox_StreetSweeper_AllowItems = "Собирать предметы",
+	Sandbox_StreetSweeper_AllowCorpses = "Собирать трупы",
+	Sandbox_StreetSweeper_AllowTiles = "Очищать тайлы из белого списка",
+	Sandbox_StreetSweeper_SpriteWhitelist = "Белый список спрайтов для удаления (a;b;c)",
+	Sandbox_StreetSweeper_SpriteWhitelist_tooltip = "Вы можете перечислить точные имена спрайтов или начало наборов тайлов. Разделите их с помощью ;",
+	Sandbox_StreetSweeper_AllowBlood = "Очищать кровь",
+	Sandbox_StreetSweeper_AllowAshes = "Очищать пепел",
+	Sandbox_StreetSweeper_AllowGrime = "Очищать грязь",
 }

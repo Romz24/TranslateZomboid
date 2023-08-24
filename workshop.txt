@@ -17,6 +17,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=27991
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514]'91 Geo Metro[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549]'63 Volkswagen 1300 Beetle[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077]'82 Oshkosh M911 + Military Semi-Trailers[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830]'93 Ford CF8000 Elgin Street Sweeper[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312]'93 Ford Mustang SSP[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971246021]'99 Ford Crown Victoria Police Interceptor[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362]More Description for Traits[/url] (Перевод отсутстующих строк)

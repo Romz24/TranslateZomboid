@@ -341,4 +341,18 @@ ItemName_RU = {
 	ItemName_Base.M911Bullbar1 = "Самодельный кенгурятник M911",
 	ItemName_Base.M911Muffler = "Глушитель M911",
 	ItemName_Base.M911Mudflaps = "Брызговики M911",
+	
+	// '93 Ford CF8000 Elgin Street Sweeper
+	ItemName_Base.93fordCF8000Tire2 = "Шина 93 Ford CF8000",
+	ItemName_Base.93fordCF8000DoubleTires2 = "Двойная шина 93 Ford CF8000",
+	ItemName_Base.93fordCF8000Trunk2 = "Не создавайте багажники",
+	ItemName_Base.93fordCF8000Door2 = "Дверь 93 Ford CF8000",
+	ItemName_Base.93fordCF8000Bumper0 = "Бампер 93 Ford CF8000",
+	ItemName_Base.93fordCF8000EngineDoor2 = "Капот 93 Ford CF8000",
+	ItemName_Base.93fordCF8000Seat2 = "Сиденье 93 Ford CF8000",
+	ItemName_Base.93fordCF8000Windshield2 = "Лобовое стекло 93 Ford CF8000",
+	ItemName_Base.93fordCF8000SideWindow2 = "Переднее боковое окно 93 Ford CF8000",
+	ItemName_Base.93fordCF8000RearWindshield2 = "Заднее стекло 93 Ford CF8000",
+	ItemName_Base.93fordCF8000Muffler0 = "Глушитель 93 Ford CF8000",
+	ItemName_Base.93fordCF8000Brushes = "Щетки для мусороуборщиков",
 }
