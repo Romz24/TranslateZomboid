@@ -28,10 +28,10 @@ Recipe_RU = {
 	Recipe_Dismantle_Wooden_Armor = "Разобрать деревянную броню",
 	
 	// '78 AM General M35A2 + M49A2C + M50A3 + M62
-	Recipe_Convert_M35A2_RunFlat_Tire = "Переделать шину M35A2 в бескамерную шину",
-	Recipe_Convert_Standard_RunFlat_Tire = "Переделать бескамерную шину в шину M35A2",
-	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать бескамерную ось для 4 шин M35A2",
-	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать бескамерную ось для 4 шин M35A2",
+	Recipe_Convert_M35A2_RunFlat_Tire = "Переделать шину M35A2 в RunFlat шину",
+	Recipe_Convert_Standard_RunFlat_Tire = "Переделать RunFlat шину в шину M35A2",
+	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать ось для 4 RunFlat шин M35A2",
+	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать ось для 4 RunFlat шин M35A2",
 	Recipe_Make_M35A2_Muffler = "Сделать глушитель M35A2",
 	Recipe_Make_M35A2_Stake_Construction = "Сделать стойки кузова с дугами M35A2",
 	Recipe_Make_M35A2_Tarp_cover = "Сделать брезентовую крышу M35A2",
