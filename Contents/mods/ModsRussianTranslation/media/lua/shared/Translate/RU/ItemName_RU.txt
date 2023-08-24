@@ -29,6 +29,15 @@ ItemName_RU = {
 	ItemName_SCA.TShirt_Schmitts = "Футболка «Schmitt's»",
 	ItemName_SCA.TShirt_Blazer = "Футболка «Blazer»",
 	
+	ItemName_SCA.MealReadytoEat_SCA = "Сухой паёк",
+	ItemName_SCA.MREWrapper_SCA = "Обертка от сухого пайка",
+	
+	ItemName_SCA.BodyBag = "Мешок для трупа",
+	ItemName_SCA.BodyBagEmpty = "Мешок для трупа",
+	ItemName_SCA.CitationPad_SCA = "Блокнот с заметками",
+	ItemName_SCA.RedBiohazardBag = "Красный мешок для биоопасных отходов",
+	ItemName_SCA.YellowBiohazardBag = "Желтый мешок для биоопасных отходов",
+	
 	// Containers!
 	ItemName_Base.IsoContainerTrunkDoor2 = "Дверь контейнера",
 	ItemName_Base.IsoContainerDoubleTrunkDoor2 = "Двойная дверь контейнера",
