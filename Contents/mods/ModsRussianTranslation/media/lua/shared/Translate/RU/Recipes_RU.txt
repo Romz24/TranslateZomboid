@@ -1,4 +1,8 @@
 Recipe_RU = {
+	// Перевод ванильных рецептов
+	Recipe_Empty_Baking_Tray = "Очистить противень",
+	Recipe_Make_Wooden_Box_Trap = "Смастерить коробку-ловушку",
+	
 	// PaperWyverns_Sleepingbags
 	Recipe_Roll_Sleeping_Bag = "Собрать спальный мешок",
 	Recipe_UnRoll_Sleeping_Bag = "Расправить спальный мешок",

@@ -7,6 +7,7 @@ ItemName_RU = {
 	ItemName_Base.Bag_ShotgunDblSawnoffBag = "Спортивная сумка",
 	ItemName_Base.Bag_ShotgunSawnoffBag = "Спортивная сумка",
 	ItemName_Base.Bag_ToolBag = "Спортивная сумка",
+	ItemName_Base.Muffintray_Biscuit = "Противень с бисквитами",
 	
 	// PaperWyverns_Sleepingbags
 	ItemName_Base.Sleepingbag = "Спальный мешок",
@@ -291,4 +292,7 @@ ItemName_RU = {
 	ItemName_Base.CardboardBoxCarry = "Картонная коробка",
 	ItemName_Base.CardboardBox2Carry = "Картонная коробка",
 	ItemName_Base.KYRPHanddolly = "Ручная тележка",
+	
+	// Common Sense
+	ItemName_Base.EmptyConcreteBag = "Мешок",
 }
