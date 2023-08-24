@@ -37,3 +37,4 @@
 * [Addicted To Weight](https://steamcommunity.com/sharedfiles/filedetails/?id=2604943386)
 * [Better Batteries](https://steamcommunity.com/sharedfiles/filedetails/?id=2856174410)
 * [The Only Cure](https://steamcommunity.com/sharedfiles/filedetails/?id=2703664356)
+* [Tsar's Common Library 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985) (Перевод отсутстующих строк)

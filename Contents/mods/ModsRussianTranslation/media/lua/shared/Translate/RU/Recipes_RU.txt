@@ -95,4 +95,9 @@ Recipe_RU = {
 	Recipe_Make_wooden_hook = "Сделать деревянный крюк",
 	Recipe_Make_metal_hook = "Сделать металлический крюк",
 	Recipe_Make_metal_hand = "Сделать металлическую руку",
+	
+	// Tsar's Common Library 2.0
+	Recipe_Cut_ATABullbar3Item = "Разрезать Кенгурятник",
+	Recipe_Cut_ATABullbarPoliceItem1 = "Разрезать Кенгурятник",
+	Recipe_Cut_ATAFrontRoofLightItem = "Разрезать Фонари",
 }
