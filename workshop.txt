@@ -41,6 +41,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=26049
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2856174410]Better Batteries[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2703664356]The Only Cure[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985]Tsar's Common Library 2.0[/url] (Перевод отсутстующих строк)
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298]Common Sense[/url] (Перевод отсутстующих строк)
 description=[/olist]
 tags=Build 41;Language/Translation
 visibility=public
