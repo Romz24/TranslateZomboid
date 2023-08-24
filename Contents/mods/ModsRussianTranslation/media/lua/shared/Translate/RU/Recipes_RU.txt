@@ -143,8 +143,22 @@ Recipe_RU = {
 	Recipe_Make_M998_Makeshift_Windshield_Armor = "Сделать самодельную броню лобового стекла M998",
 	Recipe_Make_M998_Windshield_Armor = "Сделать броню лобового стекла M998",
 	Recipe_Make_M998_Big_Bullbar = "Сделать большой кенгурятник M998",
-	Recipe_Make_M998_Roofrack = "Сделать багажник на крыше M998",
+	Recipe_Make_M998_Roofrack = "Сделать багажник на крышу M998",
 	Recipe_Convert_M998_RunFlat_Tire = "Переделать RunFlat шину M998",
 	Recipe_Convert_Standard_RunFlat_Tire = "Переделать стандартную RunFlat шину",
 	Recipe_Dismantle_Spare_Tire_with_Mount = "Разобрать запасную шину с креплением",
+	
+	// '84 Mercedes Benz W460
+	Recipe_Make_W460_Side_Window = "Сделать боковое окно W460",
+	Recipe_Make_W460_Windshield = "Сделать лобовое стекло W460",
+	Recipe_Make_W460_Rear_Windshield = "Сделать броню заднего окна W460",
+	Recipe_Make_W460_Front_Door_Armor = "Сделать броню передней двери W460",
+	Recipe_Make_W460_Rear_Door_Armor = "Сделать броню задней двери W460",
+	Recipe_Make_W460_Rear_Windows_Armor = "Сделать броню заднего окна W460",
+	Recipe_Make_W460_Windshield_Armor = "Сделать броню лобового стекла W460",
+	Recipe_Make_W460_Rear_Windshield_Armor = "Сделать броню заднего стекла W460",
+	Recipe_Make_W460_Bullbar = "Сделать кенгурятник W460",
+	Recipe_Make_W460_Big_Bullbar = "Сделать большой кенгурятник W460",
+	Recipe_Make_W460_Roofrack = "Сделать багажник на крышу W460",
+	Recipe_Make_W460_Wide_Tire = "Сделать шырокую шину W460",
 }
