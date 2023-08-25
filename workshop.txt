@@ -48,6 +48,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=27036
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985]Tsar's Common Library 2.0[/url] (Перевод отсутстующих строк)
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298]Common Sense[/url] (Перевод отсутстующих строк)
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2837923608]PertsPartyTiles[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2804432830]Map Teleport[/url]
 description=[/olist]
 tags=Build 41;Language/Translation
 visibility=public

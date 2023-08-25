@@ -397,4 +397,8 @@ UI_RU = {
 	
 	UI_ContextMenu_Heal_from_zomb = "Думаю, со мной все будет в порядке!",
 	UI_ContextMenu_Cut_for_nothing = "Я зря это сделал...",
+	
+	// MapTeleport
+	UI_siko_MAPTeleport = "Телепортироваться сюда",
+	UI_siko_HideUnvisited = "Скрыть непосещенную область",
 }
