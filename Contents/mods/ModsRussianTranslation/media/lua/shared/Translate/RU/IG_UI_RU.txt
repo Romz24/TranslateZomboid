@@ -397,4 +397,32 @@ IG_UI_RU = {
 	IGUI_VehiclePartMINI69Roofrack = "Багажник на крыше",
 	
 	IGUI_VehiclePartSeatChair = "Сиденье на крыше",
+	
+	// Water Trailer
+	IGUI_VehiclePartCatwatertank = "Бак для воды",
+	
+	IGUI_VehiclePart1500WaterTank = "Цистерна",
+	IGUI_VehiclePart3000WaterTank = "Цистерна",
+	IGUI_VehiclePart5000WaterTank = "Цистерна",
+	IGUI_Vehicle_CondInfo1500WaterTank = "Сохраняет воду. <LINE> Резервуары для воды в плохом состоянии имеют меньшую вместимость и могут пропускать воду."
+	IGUI_Vehicle_CondInfo3000WaterTank = "Сохраняет воду. <LINE> Резервуары для воды в плохом состоянии имеют меньшую вместимость и могут пропускать воду."
+	IGUI_Vehicle_CondInfo5000WaterTank = "Сохраняет воду. <LINE> Резервуары для воды в плохом состоянии имеют меньшую вместимость и могут пропускать воду."
+	
+	IGUI_VehiclePartTrunkRight = "Правый багажник",
+	IGUI_Vehicle_CondInfoTrunkRight = "При повреждённом багажнике его грузоподъемность будет уменьшаться.",
+	IGUI_VehiclePartTrunkDoorRight = "Крышка правого багажника",
+	IGUI_Vehicle_CondInfoTrunkDoorRight = "При повреждённой крышке багажника предметы могут выпадать во время движения.",
+	IGUI_VehiclePartTrunkLeft = "Левый багажник",
+	IGUI_Vehicle_CondInfoTrunkLeft = "При повреждённом багажнике его грузоподъемность будет уменьшаться.",
+	IGUI_VehiclePartTrunkDoorLeft = "Крышка левого багажника",
+	IGUI_Vehicle_CondInfoTrunkDoorLeft = "При повреждённой крышке багажника предметы могут выпадать во время движения.",
+	
+	IGUI_VehiclePartWaterTankLid = "Крышка бака",
+	IGUI_Vehicle_CondInfoWaterTankLid = "Открытая или поврежденная крышка может привести к попаданию дождевой воды в цистерну.",
+	
+	IGUI_VehiclePartWaterTankPump = "Помпа",
+	IGUI_Vehicle_CondInfoWaterTankPump = "Повреждение помпы уменьшит её эффективность и приведет к увеличению времени наполнения.",
+	
+	IGUI_VehiclePartWaterTankFilter = "Фильтр",
+	IGUI_Vehicle_CondInfoWaterTankFilter = "Вода из крана пройдет через фильтр и станет безопасной для питья.",
 }

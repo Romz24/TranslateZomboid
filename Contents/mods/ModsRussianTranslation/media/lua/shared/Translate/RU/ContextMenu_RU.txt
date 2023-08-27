@@ -59,4 +59,15 @@ ContextMenu_RU = {
 	// The Only Cure
 	ContextMenu_Cut_Arm = "Отрезать руку",
 	ContextMenu_Operate_Arm = "Оперировать руку",
+	
+	// Water Trailer
+	ContextMenu_Add_Water_To_Trailer = "Пополнить цистерну для воды",
+	ContextMenu_VehicleAddWater = "Залить в цистерну",
+	ContextMenu_VehicleSiphonWater = "Добавить воды в цистерну",
+	ContextMenu_VehicleAddSingleWater = "Добавить воду из<br>",
+	ContextMenu_VehicleAddWaterToItem = "Наполнить из цистерны",
+	ContextMenu_VehicleAddWaterToSingleItem = "<br>из цистерны",
+	ContextMenu_Open_TankLid = "Открыть люк цистерны",
+	ContextMenu_Close_TankLid = "Закрыть люк цистерны",
+	ContextMenu_Drain_Tank = "Слить воду из цистерны",
 }

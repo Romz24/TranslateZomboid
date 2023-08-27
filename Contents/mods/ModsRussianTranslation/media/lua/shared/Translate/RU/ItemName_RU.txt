@@ -486,4 +486,13 @@ ItemName_RU = {
 	ItemName_Base.69miniTeddy = "Тедди",
 	ItemName_Base.69miniTeaCrate = "Пустой ящик с чаем",
 	ItemName_Base.69miniCrateOfTea = "Ящик с чаем",
+	
+	// Water Trailer
+	ItemName_RotatorsClothing.TShirt_RotatorsBlack = "Черная футболка «Rotators»",
+	
+	ItemName_Rotators.WaterTrailerTankLid1 = "Крышка бака",
+	ItemName_Rotators.WaterTrailerTankLid2 = "Крышка бака",
+	ItemName_Rotators.WaterTrailerTankPump1 = "Помпа",
+	ItemName_Rotators.WaterTrailerTankPump2 = "Помпа",
+	ItemName_Rotators.WaterTrailerTankFilter2 = "Фильтр для воды",
 }

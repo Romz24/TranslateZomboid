@@ -48,3 +48,4 @@
 * [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298) (Перевод отсутстующих строк)
 * [PertsPartyTiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2837923608)
 * [Map Teleport](https://steamcommunity.com/sharedfiles/filedetails/?id=2804432830)
+* [Water Trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2732639855)

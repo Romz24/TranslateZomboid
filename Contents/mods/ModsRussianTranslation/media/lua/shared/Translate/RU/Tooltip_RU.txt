@@ -108,4 +108,8 @@ Tooltip_RU = {
 	
 	// PertsPartyTiles
 	Tooltip_OverlookAxe = "А вот и Джонни!",
+	
+	// Water Trailer
+	Tooltip_item_DrinkableWater = "Безопасно для питья.",
+	Tooltip_item_WaterTrailerTankFilter = "Используется в прицепе M149 для очистки воды и получения питьевой воды."
 }
