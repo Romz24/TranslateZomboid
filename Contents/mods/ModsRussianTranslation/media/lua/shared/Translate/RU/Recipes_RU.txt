@@ -175,4 +175,18 @@ Recipe_RU = {
 	Recipe_Make_GT500_Rear_Bullbar = "Сделать задний кенгурятник GT500",
 	Recipe_Make_GT500_Reinforced_Rear_Bumper = "Сделать самодельный задний бампер GT500",
 	Recipe_Make_GT500_Roofrack = "Сделать багажник на крышу GT500",
+	
+	// '69 Mini Mk2
+	Recipe_Make_MINI69_Front_Side_Window = "Сделать переднее боковое окно MINI69",
+	Recipe_Make_MINI69_Rear_Side_Window = "Сделать заднее боковое окно MINI69",
+	Recipe_Make_MINI69_Windshield = "Сделать лобовое стекло MINI69",
+	Recipe_Make_MINI69_Rear_Windshield = "Сделать заднее стекло MINI69",
+	Recipe_Make_MINI69_Front_Door_Armor = "Сделать броню передней двери MINI69",
+	Recipe_Make_MINI69_Rear_Window_Armor = "Сделать броню заднего окна MINI69",
+	Recipe_Make_MINI69_Windshield_Armor = "Сделать броню лобового стекла MINI69",
+	Recipe_Make_MINI69_Rear_Windshield_Armor = "Сделать броню заднего стекла MINI69",
+	Recipe_Make_MINI69_Bumper_with_Lights = "Сделать передний бампер с подсветкой MINI69",
+	Recipe_Make_MINI69_Bumper_with_Lights_2 = "Сделать передний бампер с подсветкой MINI69",
+	Recipe_Make_MINI69_Roofrack = "Сделать багажник на крышу MINI69",
+	Recipe_Pry_Open_Crate_of_Tea = "Открыть ящик с чаем",
 }

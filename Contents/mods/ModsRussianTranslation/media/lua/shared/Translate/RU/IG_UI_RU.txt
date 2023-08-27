@@ -1,6 +1,7 @@
 IG_UI_RU = {
 	// Без категории
 	IGUI_CraftCategory_Misc = "Разное",
+	IGUI_CraftCategory_Food = "Еда",
 	
 	// CKCO - Core
 	IGUI_ItemCat_VehicleArmor = "Автомобильная броня",
@@ -379,4 +380,21 @@ IG_UI_RU = {
 	IGUI_VehiclePartGT500Trunk = "Багажник",
 	IGUI_VehiclePartGT500Roofrack = "Багажник на крыше",
 	IGUI_VehiclePartGT500SpareTire = "Запасная шина",
+	
+	// '69 Mini Mk2
+	IGUI_VehiclePartMINI69BumperFront = "Передний бампер",
+	IGUI_VehiclePartMINI69BumperRear = "Задний бампер",
+	IGUI_VehiclePartMINI69SpareTire = "Запасная шина",
+	
+	IGUI_VehiclePartMINI69WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartMINI69WindshieldRearArmor = "Броня заднего стекла",
+	IGUI_VehiclePartMINI69DoorFrontLeftArmor = "Броня передней левой двери",
+	IGUI_VehiclePartMINI69DoorFrontRightArmor = "Броня задней правой двери",
+	IGUI_VehiclePartMINI69WindowRearLeftArmor = "Броня заднего левого окна",
+	IGUI_VehiclePartMINI69WindowRearRightArmor = "Броня заднего правого окна",
+	
+	IGUI_VehiclePartMINI69Trunk = "Багажник",
+	IGUI_VehiclePartMINI69Roofrack = "Багажник на крыше",
+	
+	IGUI_VehiclePartSeatChair = "Сиденье на крыше",
 }
