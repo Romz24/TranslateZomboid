@@ -366,4 +366,17 @@ IG_UI_RU = {
 	IGUI_VehiclePartW460SWBDoorRearLeftArmor = "Броня левой задней двери",
 	IGUI_VehiclePartW460SWBDoorRearRightArmor = "Броня правой задней двери",
 	IGUI_VehiclePartW460Trunk = "Багажник",
+	
+	// '67 Shelby GT500 + Eleanor
+	IGUI_VehiclePartGT500FrontBumper = "Передний бампер",
+	IGUI_VehiclePartGT500RearBumper = "Задний бампер",
+	
+	IGUI_VehiclePartGT500WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartGT500WindshieldRearArmor = "Броня заднего стекла",
+	IGUI_VehiclePartGT500WindowLeftArmor = "Броня левого переднего окна",
+	IGUI_VehiclePartGT500WindowRightArmor = "Броня правого переднего окна",
+	
+	IGUI_VehiclePartGT500Trunk = "Багажник",
+	IGUI_VehiclePartGT500Roofrack = "Багажник на крыше",
+	IGUI_VehiclePartGT500SpareTire = "Запасная шина",
 }

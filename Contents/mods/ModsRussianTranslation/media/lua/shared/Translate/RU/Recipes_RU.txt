@@ -161,4 +161,18 @@ Recipe_RU = {
 	Recipe_Make_W460_Big_Bullbar = "Сделать большой кенгурятник W460",
 	Recipe_Make_W460_Roofrack = "Сделать багажник на крышу W460",
 	Recipe_Make_W460_Wide_Tire = "Сделать шырокую шину W460",
+	
+	// '67 Shelby GT500 + Eleanor
+	Recipe_Make_GT500_Front_Side_Window = "Сделать переднее боковое окно GT500",
+	Recipe_Make_GT500_Windshield = "Сделать лобовое стекло GT500",
+	Recipe_Make_GT500_Rear_Windshield = "Сделать заднее стекло GT500",
+	Recipe_Make_GT500_Window_Armor = "Сделать броню бокового окна GT500",
+	Recipe_Make_GT500_Windshield_Armor = "Сделать броню лобового стекла GT500",
+	Recipe_Make_GT500_Rear_Windshield_Armor = "Сделать броню заднего стекла GT500",
+	Recipe_Make_GT500_Front_Bullbar = "Сделать передний кенгурятник GT500",
+	Recipe_Make_GT500_Reinforced_Front_Bumper = "Сделать самодельный передний бампер GT500",
+	Recipe_Make_GT500_Reinforced_Eleanor_Front_Bumper = "Сделать самодельный передний бампер GT500 Eleanor",
+	Recipe_Make_GT500_Rear_Bullbar = "Сделать задний кенгурятник GT500",
+	Recipe_Make_GT500_Reinforced_Rear_Bumper = "Сделать самодельный задний бампер GT500",
+	Recipe_Make_GT500_Roofrack = "Сделать багажник на крышу GT500",
 }

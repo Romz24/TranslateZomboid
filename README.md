@@ -14,6 +14,7 @@
 * ['78 AM General M35A2 + M49A2C + M50A3 + M62](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995)
 * ['91 Geo Metro](https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514)
 * ['63 Volkswagen 1300 Beetle](https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549)
+* ['67 Shelby GT500 + Eleanor](https://steamcommunity.com/sharedfiles/filedetails/?id=3026723485)
 * ['82 Oshkosh M911 + Military Semi-Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077)
 * ['84 Mercedes Benz W460](https://steamcommunity.com/sharedfiles/filedetails/?id=2805630347)
 * ['92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Перевод отсутстующих строк + доработка)
