@@ -152,4 +152,8 @@ Sandbox_RU = {
 	Sandbox_StreetSweeper_AllowBlood = "Очищать кровь",
 	Sandbox_StreetSweeper_AllowAshes = "Очищать пепел",
 	Sandbox_StreetSweeper_AllowGrime = "Очищать грязь",
+	
+	// '49 Dodge Power Wagon Crew Cab
+	Sandbox_DAMN_Spawns = "Гарантированные спавны",
+	Sandbox_DAMN_AllowPowerChadSpawns = "Включить предустановленный спавн '49 Dodge Power Wagon",
 }

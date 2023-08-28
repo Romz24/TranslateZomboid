@@ -11,6 +11,7 @@
 * [Players On Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2879960936)
 * [Mileage Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2980294462)
 * ['08 Mercury Sable](https://steamcommunity.com/sharedfiles/filedetails/?id=2834352171)
+* ['49 Dodge Power Wagon Crew Cab](https://steamcommunity.com/sharedfiles/filedetails/?id=2900580391)
 * ['78 AM General M35A2 + M49A2C + M50A3 + M62](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995)
 * ['91 Geo Metro](https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514)
 * ['63 Volkswagen 1300 Beetle](https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549)

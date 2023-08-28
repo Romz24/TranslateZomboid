@@ -425,4 +425,23 @@ IG_UI_RU = {
 	
 	IGUI_VehiclePartWaterTankFilter = "Фильтр",
 	IGUI_Vehicle_CondInfoWaterTankFilter = "Вода из крана пройдет через фильтр и станет безопасной для питья.",
+	
+	// '49 Dodge Power Wagon Crew Cab
+	IGUI_VehiclePartFenderFrontLeft = "Переднее левое крыло",
+	IGUI_VehiclePartFenderFrontRight = "Переднее правое крыло",
+	IGUI_VehiclePartFenderRearLeft = "Заднее левое крыло",
+	IGUI_VehiclePartFenderRearRight = "Заднее правое крыло",
+	IGUI_VehiclePartPWRFrontBumper = "Передний бампер",
+	IGUI_VehiclePartPWRSideskirts = "Боковые юбки",
+	IGUI_VehiclePartPWRSpare = "Запасная шина",
+	
+	IGUI_VehiclePartPWRTrunk = "Багажник",
+	IGUI_VehiclePartTruckBedSeat = "Заднее сиденье в кузове",
+	
+	IGUI_VehiclePartPWRWindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartPWRFrontLeftArmor = "Броня передней левой двери",
+	IGUI_VehiclePartPWRFrontRightArmor = "Броня передней правой двери",
+	IGUI_VehiclePartPWRRearLeftArmor = "Броня задней левой двери",
+	IGUI_VehiclePartPWRRearRightArmor = "Броня задней правой двери",
+	IGUI_VehiclePartPWRWindshieldRearArmor = "Броня заднего стекла",
 }
