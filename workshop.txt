@@ -22,6 +22,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=30267
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2937786633]'69 Mini Mk2[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077]'82 Oshkosh M911 + Military Semi-Trailers[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2805630347]'84 Mercedes Benz W460[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2870394916]'86 Ford Econoline E-150 + Pop Culture vans[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073]'92 AM General M998 + M101A3 Cargo trailer[/url] (Перевод отсутстующих строк + доработка)
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830]'93 Ford CF8000 Elgin Street Sweeper[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312]'93 Ford Mustang SSP[/url]

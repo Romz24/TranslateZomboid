@@ -199,7 +199,7 @@ Recipe_RU = {
 	Recipe_Make_49powerWagon_Window_Side = "Сделать боковое окно 49powerWagon",
 	Recipe_Make_49powerWagon_Window_Side_1 = "Сделать боковое окно 49powerWagon",
 	Recipe_Make_49powerWagon_Windshield_Rear = "Сделать заднее стекло 49powerWagon",
-	Recipe_Make_49powerWagon_Truck_Bed_Seat = "Сделать сиденье для кузова 49powerWagon",
+	Recipe_Make_49powerWagon_Truck_Bed_Seat = "Сделать сиденье кузова 49powerWagon",
 	Recipe_Make_49powerWagon_Front_Door_Armor = "Сделать броню передней двери 49powerWagon",
 	Recipe_Make_49powerWagon_Rear_Door_Armor = "Сделать броню задней двери 49powerWagon",
 	Recipe_Make_49powerWagon_Windshield_Armor = "Сделать броню лобового стекла 49powerWagon",
@@ -212,4 +212,16 @@ Recipe_RU = {
 	Recipe_Make_49powerWagon_Makeshift_Rear_Fender = "Сделать самодельное заднее крыло 49powerWagon",
 	Recipe_Make_49powerWagon_Sideskirts = "Сделать боковые юбки 49powerWagon",
 	Recipe_Make_49powerWagon_Makeshift_Sideskirts = "Сделать самодельные боковые юбки 49powerWagon",
+	
+	// '86 Ford Econoline E-150 + Pop Culture vans
+	Recipe_Make_E150_Side_Window = "Сделать боковое окно E150",
+	Recipe_Make_E150_Windshield = "Сделать лобовое стекло E150",
+	Recipe_Make_E150_Rear_Windshield = "Сделать заднее стекло E150",
+	Recipe_Make_E150_Door_Armor = "Сделать броню двери E150",
+	Recipe_Make_E150_Windshield_Armor = "Сделать броню лобового стекла E150",
+	Recipe_Make_E150_Rear_Windshield_Armor = "Сделать броню заднего стекла E150",
+	Recipe_Make_E150_Front_Bumper = "Сделать передний бампер E150",
+	Recipe_Make_E150_Front_Bullbar = "Сделать передний кенгурятник E150",
+	Recipe_Make_E150_Front_Bumper_with_Bullbar = "Сделать передний бампер с кенгурятником E150",
+	Recipe_Make_E150_Rear_Bumper = "Сделать задний бампер E150",
 }

@@ -19,6 +19,7 @@
 * ['69 Mini Mk2](https://steamcommunity.com/sharedfiles/filedetails/?id=2937786633)
 * ['82 Oshkosh M911 + Military Semi-Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077)
 * ['84 Mercedes Benz W460](https://steamcommunity.com/sharedfiles/filedetails/?id=2805630347)
+* ['86 Ford Econoline E-150 + Pop Culture vans](https://steamcommunity.com/sharedfiles/filedetails/?id=2870394916)
 * ['92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Перевод отсутстующих строк + доработка)
 * ['93 Ford CF8000 Elgin Street Sweeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830)
 * ['93 Ford Mustang SSP](https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312)

@@ -444,4 +444,37 @@ IG_UI_RU = {
 	IGUI_VehiclePartPWRRearLeftArmor = "Броня задней левой двери",
 	IGUI_VehiclePartPWRRearRightArmor = "Броня задней правой двери",
 	IGUI_VehiclePartPWRWindshieldRearArmor = "Броня заднего стекла",
+	
+	// '86 Ford Econoline E-150 + Pop Culture vans
+	IGUI_VehiclePartE150SpareTire = "Запасная шина",
+	IGUI_VehiclePartE150Bumper = "Передний бампер",
+	IGUI_VehiclePartE150RearBumper = "Задний бампер",
+	IGUI_VehiclePartE150Divider = "Перегородка кабины",
+	
+	IGUI_VehiclePartE150WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartE150WindshieldRearArmor = "Броня заднего стекла",
+	IGUI_VehiclePartE150WindshieldRearLongArmor = "Броня заднего стекла",
+	IGUI_VehiclePartE150LeftDoorArmor = "Броня левой двери",
+	IGUI_VehiclePartE150RightDoorArmor = "Броня правой двери",
+	IGUI_VehiclePartE150Trunk = "Багажник",
+	
+	IGUI_VehiclePartCatfurvan = "Мех «Mutt Cutts»",
+	
+	IGUI_VehiclePartE150FurBody = "Кузов из меха",
+	IGUI_VehiclePartE150FurHood = "Капот из меха",
+	IGUI_VehiclePartE150FurLeftDoor = "Левая дверь из меха",
+	IGUI_VehiclePartE150FurRightDoor = "Правая дверь из меха",
+	IGUI_VehiclePartE150FurTrunkDoor = "Крышка багажника из меха",
+	IGUI_VehiclePartE150FurRearLeg = "Накидка на заднее колесо из меха",
+	
+	IGUI_VehiclePartCatmysterymachine = "Таинственная машина",
+	
+	IGUI_VehiclePartE150MMSpareTire = "Передняя запасная шина",
+	IGUI_VehiclePartE150MMRoofrack = "Крепление для доски",
+	IGUI_VehiclePartE150MMSurfboards = "Доски для серфинга",
+	
+	IGUI_VehiclePartE150RearSeatOne = "1-е заднее сиденье",
+	IGUI_VehiclePartE150RearSeatTwo = "2-е заднее сиденье",
+	IGUI_VehiclePartE150RearSeatThree = "3-е заднее сиденье",
+	IGUI_VehiclePartE150RearCabinet = "Задний шкаф",
 }
