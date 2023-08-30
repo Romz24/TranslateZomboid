@@ -477,4 +477,19 @@ IG_UI_RU = {
 	IGUI_VehiclePartE150RearSeatTwo = "2-е заднее сиденье",
 	IGUI_VehiclePartE150RearSeatThree = "3-е заднее сиденье",
 	IGUI_VehiclePartE150RearCabinet = "Задний шкаф",
+	
+	// '83 AM General M923
+	IGUI_VehiclePartM923SpareTire = "Запасная шина",
+	IGUI_VehiclePartM923SpareMount = "Крепление для запасной шины",
+	IGUI_VehiclePartM923Stakes = "Стойки платформы",
+	IGUI_VehiclePartM923DoorLeftArmor = "Броня передней левой двери",
+	IGUI_VehiclePartM923DoorRightArmor = "Броня передней правой двери",
+	IGUI_VehiclePartM923WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartM923Bumper = "Бампер",
+	IGUI_VehiclePartM923Trunk = "Багажник",
+	IGUI_VehiclePartM923Storage = "Боковой багажник",
+	IGUI_VehiclePartM923StorageDoor = "Крышка бокового багажника",
+	IGUI_VehiclePartM923Mudflaps = "Брызговики",
+	IGUI_VehiclePartM923CabCovers = "Крыша кабины",
+	IGUI_VehiclePartM923GuntruckArmor = "Защита стрелка",
 }

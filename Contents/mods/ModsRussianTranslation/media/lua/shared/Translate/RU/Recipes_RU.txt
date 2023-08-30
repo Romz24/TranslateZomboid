@@ -224,4 +224,20 @@ Recipe_RU = {
 	Recipe_Make_E150_Front_Bullbar = "Сделать передний кенгурятник E150",
 	Recipe_Make_E150_Front_Bumper_with_Bullbar = "Сделать передний бампер с кенгурятником E150",
 	Recipe_Make_E150_Rear_Bumper = "Сделать задний бампер E150",
+	
+	// '83 AM General M923
+	Recipe_Make_M923_RunFlat_2_Tire_Axle = "Сделать ось с 2 RunFlat шинами M923",
+	Recipe_Make_M923_Muffler = "Сделать глушитель M923",
+	Recipe_Make_M923_Muffler_1 = "Сделать глушитель M923",
+	Recipe_Make_M923_Muffler_2 = "Сделать глушитель M923",
+	Recipe_Make_M923_Flatbed_Stakes = "Сделать стойки платформы M923",
+	Recipe_Make_M923_Small_Bumper = "Сделать маленький бампер M923",
+	Recipe_Make_M923_Hillbilly_Bumper = "Сделать большой бампер M923",
+	Recipe_Make_M923_Side_Window = "Сделать заднее стекло M923",
+	Recipe_Make_M923_Windshield = "Сделать лобовое стекло M923",
+	Recipe_Make_M923_Windshield_Armor = "Сделать броню лобового стекла M923",
+	Recipe_Make_M923_Door_Armor = "Сделать броню двери M923",
+	Recipe_Make_M923_Gunport = "Сделать боковой оружейный порт M923",
+	Recipe_Make_M923_Guntruck_Armor = "Сделать броню стрелка M923",
+	Recipe_Make_M923_Rear_Seat = "Сделать заднее сиденье M923",
 }
