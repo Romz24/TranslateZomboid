@@ -55,14 +55,14 @@ IG_UI_RU = {
 	IGUI_VehiclePartM35A1FrontHardTop = "Передняя жесткая крыша M35A1",
 	IGUI_VehiclePartM35A1FrontSoftTop = "Передняя мягкая крыша M35A1",
 	IGUI_VehiclePartM35A1SpareTire = "Запасная передняя шина M35A1",
-	IGUI_VehiclePartM35A1WindshieldArmor = "Бронированное лобовое стекло",
+	IGUI_VehiclePartM35A1WindshieldArmor = "Броня лобового стекла",
 	IGUI_VehiclePartM35A1FrontRightWindowArmor = "Бронированное правое окно",
 	IGUI_VehiclePartM35A1FrontLeftWindowArmor = "Бронированное левое окно",
 	IGUI_VehiclePartM35A1FrontRightDoorArmor = "Бронированная правая дверь",
 	IGUI_VehiclePartM35A1FrontLeftDoorArmor = "Бронированная левая дверь",
 	
 	IGUI_VehiclePartJeepCherokeeBullbar = "Кенгурятник",
-	IGUI_VehiclePartJeepCherokeeWindshieldArmor = "Бронированное лобовое стекло",
+	IGUI_VehiclePartJeepCherokeeWindshieldArmor = "Броня лобового стекла",
 	IGUI_VehiclePartJeepCherokeeFrontRightWindowArmor = "Бронированное правое окно",
 	IGUI_VehiclePartJeepCherokeeFrontLeftWindowArmor = "Бронированное левое окно",
 	IGUI_VehiclePartJeepCherokeeFrontRightDoorArmor = "Бронированная передняя правая дверь",
@@ -76,7 +76,7 @@ IG_UI_RU = {
 	IGUI_VehiclePartJeepCherokeeSpareTire = "Запасная шина",
 	
 	IGUI_VehiclePartFordMustangBullbar = "Кенгурятник",
-	IGUI_VehiclePartFordMustangWindshieldArmor = "Бронированное лобовое стекло",
+	IGUI_VehiclePartFordMustangWindshieldArmor = "Броня лобового стекла",
 	IGUI_VehiclePartFordMustangFrontRightWindowArmor = "Бронированное правое окно",
 	IGUI_VehiclePartFordMustangFrontLeftWindowArmor = "Бронированное левое окно",
 	IGUI_VehiclePartFordMustangFrontRightDoorArmor = "Бронированная передняя правая дверь",
@@ -144,9 +144,9 @@ IG_UI_RU = {
 	IGUI_VehiclePartM35A2Trunk = "Багажник кузова",
 	IGUI_VehiclePartM49A2CTrunk = "Хранилище насосного отсека",
 	IGUI_VehiclePartM35A2Muffler = "Глушитель",
-	IGUI_VehiclePartM35A2WindshieldArmor = "Защита лобового стекла",
-	IGUI_VehiclePartM35A2DoorLeftArmor = "Защита передней левой двери",
-	IGUI_VehiclePartM35A2DoorRightArmor = "Защита передней правой двери",
+	IGUI_VehiclePartM35A2WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartM35A2DoorLeftArmor = "Броня передней левой двери",
+	IGUI_VehiclePartM35A2DoorRightArmor = "Броня передней правой двери",
 	
 	// More Description for Traits (Перевод отсутстующих строк)
 	IGUI_SearchMode_Categories_WildHerbs = "Дикие травы",

@@ -574,7 +574,7 @@ ItemName_RU = {
 	ItemName_Base.E150ChassisFur = "Кузов из меха «Mutt Cutts»",
 	ItemName_Base.E150LegFur = "Накидка на заднее колесо из меха «Mutt Cutts»",
 	ItemName_Base.E150Divider = "Перегородка кабины Ford E150",
-	ItemName_Base.E150MysteryMachineRoofrack2 = "Крипление для доски «Таинственная машина»",
+	ItemName_Base.E150MysteryMachineRoofrack2 = "Крепление для доски «Таинственная машина»",
 	ItemName_Base.E150MysteryMachineSurfboards2 = "Доска для серфинга «Таинственная машина»",
 	
 	// '83 AM General M923
