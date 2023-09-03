@@ -12,6 +12,7 @@
 * [Mileage Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2980294462)
 * ['08 Mercury Sable](https://steamcommunity.com/sharedfiles/filedetails/?id=2834352171)
 * ['49 Dodge Power Wagon Crew Cab](https://steamcommunity.com/sharedfiles/filedetails/?id=2900580391)
+* ['59 Cadillac Miller-Meteor + ECTO-1](https://steamcommunity.com/sharedfiles/filedetails/?id=2772575623) (Перевод предметов и рецептов)
 * ['78 AM General M35A2 + M49A2C + M50A3 + M62](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995)
 * ['91 Geo Metro](https://steamcommunity.com/sharedfiles/filedetails/?id=3008795514)
 * ['63 Volkswagen 1300 Beetle](https://steamcommunity.com/sharedfiles/filedetails/?id=3005903549)
