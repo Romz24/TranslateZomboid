@@ -55,3 +55,4 @@
 * [Map Teleport](https://steamcommunity.com/sharedfiles/filedetails/?id=2804432830)
 * [Water Trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2732639855)
 * [Only One Category K15](https://steamcommunity.com/sharedfiles/filedetails/?id=3029673388), [Unified KI5 Crafting Category](https://steamcommunity.com/sharedfiles/filedetails/?id=2945800750)
+* [Car Door Open Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2955723750)

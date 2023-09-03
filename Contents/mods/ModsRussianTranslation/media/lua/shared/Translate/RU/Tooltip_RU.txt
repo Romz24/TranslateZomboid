@@ -143,4 +143,10 @@ Tooltip_RU = {
 	Tooltip_item_ECTO1WindshieldRearArmor1 = "Прикрепите это к двери багажника Кадиллака, чтобы защитить заднее ветровое стекло и крышку багажника.",
 	Tooltip_item_ECTO1Roofrack1 = "Дополнительное место для хранения на крыше, доступное со всех сторон Кадиллака",
 	Tooltip_item_ECTO1Equipment1 = "Оборудование ЭКТО-1 на крыше и в салоне Кадиллак",
+	
+	// Car Door Open Indicator
+	Tooltip_CDOI_doors = "Замки дверей. Есть открытая дверь",
+	Tooltip_CDOI_trunkLocked = "Замок багажника (закрыто). Багажник открыт",
+	Tooltip_CDOI_trunkUnlocked = "Замок багажника (открыто). Багажник открыт",
+	Tooltip_CDOI_engine = "Двигатель. Капот открыт",
 }

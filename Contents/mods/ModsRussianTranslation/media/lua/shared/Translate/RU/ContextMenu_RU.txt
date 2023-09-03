@@ -70,4 +70,12 @@ ContextMenu_RU = {
 	ContextMenu_Open_TankLid = "Открыть люк цистерны",
 	ContextMenu_Close_TankLid = "Закрыть люк цистерны",
 	ContextMenu_Drain_Tank = "Слить воду из цистерны",
+	
+	// Car Door Open Indicator
+	ContextMenu_CDOI_closeDoors = "Закрыть все двери",
+	ContextMenu_CDOI_closeDoorsStopCar = "Остановите машину, чтобы закрыть все двери",
+	ContextMenu_CDOI_closeHood = "Закрыть капот",
+	ContextMenu_CDOI_closeHoodStopCar = "Остановите машину, чтобы закрыть капот",
+	ContextMenu_CDOI_closeTrunk = "Закрыть багажник",
+	ContextMenu_CDOI_closeTrunkStopCar = "Остановите машину, чтобы закрыть багажник",
 }

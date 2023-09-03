@@ -58,6 +58,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=28379
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2804432830]Map Teleport[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2732639855]Water Trailer[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3029673388]Only One Category K15[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2945800750]Unified KI5 Crafting Category[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955723750]Car Door Open Indicator[/url]
 description=[/olist]
 tags=Build 41;Language/Translation
 visibility=public
