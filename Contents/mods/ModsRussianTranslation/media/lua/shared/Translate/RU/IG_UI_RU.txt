@@ -3,6 +3,9 @@ IG_UI_RU = {
 	IGUI_CraftCategory_Misc = "Разное",
 	IGUI_CraftCategory_Food = "Еда",
 	
+	// Only One Category K15, Unified KI5 Crafting Category
+	IGUI_CraftCategory_KI5 = "Транспорт KI5",
+	
 	// CKCO - Core
 	IGUI_ItemCat_VehicleArmor = "Автомобильная броня",
 	
