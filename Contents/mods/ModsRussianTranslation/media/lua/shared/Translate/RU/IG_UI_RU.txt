@@ -507,4 +507,21 @@ IG_UI_RU = {
 	IGUI_VehiclePartECTO1WindshieldRearArmor = "Броня заднего стекла",
 	IGUI_VehiclePartECTO1Equipment = "Оборудование ЭКТО-1",
 	IGUI_VehiclePartECTO1Roofrack = "Багажник на крыше",
+	
+	// '88 Chevrolet S10
+	IGUI_VehiclePartCH88Rollbar = "Дуги для кузова",
+	IGUI_VehiclePartCH88Roofrack = "Багажник на крыше",
+	IGUI_VehiclePartCH88BedCover = "Крыша кузова",
+	IGUI_VehiclePartCH88TrunkDoorTop = "Верхняя крышка багажника",
+	IGUI_VehiclePartCH88Trunk = "Багажник",
+	
+	IGUI_VehiclePartCH88FrontBumper = "Передний бампер",
+	IGUI_VehiclePartCH88RearBumper = "Задний бампер",
+	
+	IGUI_VehiclePartCH88SpareTireRoof = "Запасная шина на крыше",
+	IGUI_VehiclePartCH88SpareTireRear = "Запасная шина в багажнике",
+	
+	IGUI_VehiclePartCH88WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartCH88WindowFrontLeftArmor = "Броня переднего левого окна",
+	IGUI_VehiclePartCH88WindowFrontRightArmor = "Броня переднего правого окна",
 }

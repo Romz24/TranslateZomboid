@@ -253,4 +253,21 @@ Recipe_RU = {
 	Recipe_Make_59_Meteor_Rear_Windshield_Armor = "Сделать броню заднего стекла 59 Meteor",
 	Recipe_Make_59_Meteor_Bullbar = "Сделать кенгурятник 59 Meteor",
 	Recipe_Make_59_Meteor_Roofrack = "Сделать багажник на крышу 59 Meteor",
+	
+	// '88 Chevrolet S10
+	Recipe_Make_80sPickups_Front_Window_Armor = "Сделать броню переднего окна 80sPickups",
+	Recipe_Make_80sPickups_Windshield_Armor = "Сделать броню переднего стекла 80sPickups",
+	Recipe_Make_80sPickups_Rear_Window_Armor = "Сделать броню бокового окна 80sPickups",
+	Recipe_Make_80sPickups_Front_Bullbar_Type_1 = "Сделать передний кенгурятник (тип 1) 80sPickups",
+	Recipe_Make_80sPickups_Rear_Bullbar_Type_1 = "Сделать задний кенгурятник (тип 1) 80sPickups",
+	Recipe_Make_80sPickups_Rollbar_Type_A = "Сделать дуги для кузова (тип A) 80sPickups",
+	Recipe_Make_80sPickups_Rollbar_Type_B = "Сделать дуги для кузова (тип B) 80sPickups",
+	Recipe_Make_80sPickups_Roofrack = "Сделать багажник на крыше 80sPickups",
+	
+	Recipe_Make_CH88_Front_Side_Window = "Сделать боковое окно CH88",
+	Recipe_Make_CH88_Windshield = "Сделать лобовое стекло CH88",
+	Recipe_Make_CH88_Rear_Windshield = "Сделать заднее стекло CH88",
+	Recipe_Make_CH88_Front_Bullbar = "Сделать передний кенгурятник CH88",
+	Recipe_Make_CH88_Bed_Cover = "Сделать крышу кузова CH88",
+	Recipe_Make_CH88_Top_Trunk_Lid = "Сделать верхнюю крышку багажника CH88",
 }
