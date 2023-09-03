@@ -29,7 +29,7 @@ Recipe_RU = {
 	
 	// '78 AM General M35A2 + M49A2C + M50A3 + M62
 	Recipe_Convert_M35A2_RunFlat_Tire = "Переделать шину M35A2 в RunFlat шину",
-	Recipe_Convert_Standard_RunFlat_Tire = "Переделать RunFlat шину в шину M35A2",
+	Recipe_Convert_Standard_RunFlat_Tire = "Переделать стандартную RunFlat шину",
 	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Сделать ось для 4 RunFlat шин M35A2",
 	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Разобрать ось для 4 RunFlat шин M35A2",
 	Recipe_Make_M35A2_Muffler = "Сделать глушитель M35A2",
@@ -270,4 +270,18 @@ Recipe_RU = {
 	Recipe_Make_CH88_Front_Bullbar = "Сделать передний кенгурятник CH88",
 	Recipe_Make_CH88_Bed_Cover = "Сделать крышу кузова CH88",
 	Recipe_Make_CH88_Top_Trunk_Lid = "Сделать верхнюю крышку багажника CH88",
+	
+	// '97 ADI Bushmaster
+	Recipe_Make_97bushmaster_Windshield = "Сделать лобовое стекло 97bushmaster",
+	Recipe_Make_97bushmaster_Window_Front = "Сделать переднее боковое окно 97bushmaster",
+	Recipe_Make_97bushmaster_Window_Side = "Сделать заднее окно 97bushmaster",
+	Recipe_Make_97bushmaster_Windshield_Rear = "Сделать заднее стекло 97bushmaster",
+	Recipe_Make_97bushmaster_Hood = "Сделать капот 97bushmaster",
+	Recipe_Make_97bushmaster_Door = "Сделать дверь 97bushmaster",
+	Recipe_Make_97bushmaster_Hatch = "Сделать люк 97bushmaster",
+	Recipe_Make_97bushmaster_Storage_Lid_Small = "Сделать маленькую крышку багажника 97bushmaster",
+	Recipe_Make_97bushmaster_Storage_Lid_Large = "Сделать большкую крышку багажника 97bushmaster",
+	Recipe_Make_97bushmaster_Roof_Crates = "Сделать ящик на крышу 97bushmaster",
+	Recipe_Make_97bushmaster_Bullbar = "Сделать кенгурятник 97bushmaster",
+	Recipe_Convert_Standard_RunFlat_Tire = "Переделать стандартную RunFlat шину",
 }

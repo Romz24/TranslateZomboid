@@ -29,6 +29,7 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=28868
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073]'92 AM General M998 + M101A3 Cargo trailer[/url] (Перевод отсутстующих строк + доработка)
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830]'93 Ford CF8000 Elgin Street Sweeper[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312]'93 Ford Mustang SSP[/url]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897390033]'97 ADI Bushmaster[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971246021]'99 Ford Crown Victoria Police Interceptor[/url]
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362]More Description for Traits[/url] (Перевод отсутстующих строк)
 description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776]Alternative Inventory Rendering[/url]

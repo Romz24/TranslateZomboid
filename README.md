@@ -26,6 +26,7 @@
 * ['92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Перевод отсутстующих строк + доработка)
 * ['93 Ford CF8000 Elgin Street Sweeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830)
 * ['93 Ford Mustang SSP](https://steamcommunity.com/sharedfiles/filedetails/?id=3001592312)
+* ['97 ADI Bushmaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2897390033)
 * ['99 Ford Crown Victoria Police Interceptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2971246021)
 * [More Description for Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362) (Перевод отсутстующих строк)
 * [Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)

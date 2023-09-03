@@ -153,7 +153,8 @@ Sandbox_RU = {
 	Sandbox_StreetSweeper_AllowAshes = "Очищать пепел",
 	Sandbox_StreetSweeper_AllowGrime = "Очищать грязь",
 	
-	// '49 Dodge Power Wagon Crew Cab
+	// '49 Dodge Power Wagon Crew Cab, '97 ADI Bushmaster
 	Sandbox_DAMN_Spawns = "Гарантированные спавны",
 	Sandbox_DAMN_AllowPowerChadSpawns = "Включить предустановленный спавн '49 Dodge Power Wagon",
+	Sandbox_DAMN_AllowBushmasterSpawns = "Включить предустановленный спавн '97 ADI Bushmaster",
 }
