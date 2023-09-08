@@ -3,6 +3,7 @@ ContextMenu_RU = {
 	ContextMenu_GrabAmount = "Взять несколько",
 	ContextMenu_PutAmount = "Положить несколько",
 	ContextMenu_TransferAmountInfo = "Введите количество (макс.",
+	ContextMenu_CraftAmount = "Создать несколько",
 	
 	// SCKCO - Accessories
 	ContextMenu_BagCorpse = "Упаковать труп",
